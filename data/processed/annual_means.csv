@@ -1,0 +1,1621 @@
+SiteCode,year,species,annual_mean,capture,SiteName,SiteType,LocalAuthorityName,Latitude,Longitude
+BG1,2016,NO2,21,81,Barking and Dagenham - Rush Green,Suburban,Barking and Dagenham,51.563752,0.177891
+BG2,2016,NO2,32,95,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BG2,2016,PM10,20,97,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BL0,2016,NO2,42,98,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BL0,2016,PM25,12,96,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BL0,2016,PM10,20,97,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BQ7,2016,NO2,24,93,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ7,2016,PM10,18,99,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ8,2016,PM10,15,96,Bexley - Belvedere West FDMS,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BT4,2016,NO2,76,92,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT4,2016,PM10,33,94,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT5,2016,PM10,27,85,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT6,2016,PM10,20,98,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BX0,2016,PM10,18,79,Bexley - Belvedere FDMS,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX1,2016,NO2,25,98,Bexley - Slade Green,Suburban,Bexley,51.4659832746662,0.184877126994369
+BX1,2016,PM10,18,98,Bexley - Slade Green,Suburban,Bexley,51.4659832746662,0.184877126994369
+BX2,2016,NO2,29,95,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX2,2016,PM10,15,90,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX9,2016,PM25,11,93,Bexley - Slade Green FDMS,Suburban,Bexley,51.4659832746662,0.184877126994369
+CD1,2016,NO2,66,100,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD1,2016,PM25,15,96,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD1,2016,PM10,21,94,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD9,2016,NO2,88,99,Camden - Euston Road,Roadside,Camden,51.527975,-0.1287742
+CD9,2016,PM25,17,92,Camden - Euston Road,Roadside,Camden,51.527975,-0.1287742
+CD9,2016,PM10,24,92,Camden - Euston Road,Roadside,Camden,51.527975,-0.1287742
+CE1,2016,NO2,35,97,Regent Street facade (The Crown Estate),Roadside,Westminster,51.5111824979787,-0.139114122784456
+CR5,2016,NO2,47,95,Croydon - Norbury,Kerbside,Croydon,51.411349,-0.12311
+CR7,2016,NO2,31,82,Croydon - Purley Way A23,Roadside,Croydon,51.3622305655403,-0.117604507351392
+CR9,2016,NO2,56,75,Croydon - Park Lane,Roadside,Croydon,51.3739530635378,-0.0967638468323854
+CT3,2016,NO2,42,99,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT3,2016,PM25,15,87,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT3,2016,PM10,25,99,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT4,2016,NO2,85,99,City of London - Beech Street,Roadside,City of London,51.520225273171,-0.0961060474176381
+CT4,2016,PM10,25,98,City of London - Beech Street,Roadside,City of London,51.520225273171,-0.0961060474176381
+CT6,2016,NO2,92,98,City of London - Walbrook Wharf,Roadside,City of London,51.510499,-0.091634
+CT8,2016,PM10,35,97,City of London - Upper Thames Street,Roadside,City of London,51.5095436853913,-0.0873571979556188
+EA6,2016,NO2,76,97,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA6,2016,PM10,24,90,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA8,2016,NO2,48,98,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EA8,2016,PM10,28,89,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EI1,2016,NO2,60,89,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI1,2016,PM10,30,97,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI8,2016,PM10,26,97,Ealing - Horn Lane TEOM,Industrial,Ealing,51.5189160348806,-0.265652052386222
+EN1,2016,NO2,28,100,Enfield - Bush Hill Park,Suburban,Enfield,51.6450367266602,-0.0661800662229116
+EN4,2016,NO2,43,99,Enfield - Derby Road,Roadside,Enfield,51.614864007,-0.0507658363689
+EN5,2016,NO2,47,95,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN5,2016,PM10,22,87,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN7,2016,NO2,25,97,Enfield - Prince of Wales School,Urban Background,Enfield,51.66864334727,-0.02200720557
+GB6,2016,NO2,45,98,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GB6,2016,PM10,22,98,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GN0,2016,NO2,39,100,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2016,PM25,15,81,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2016,PM10,23,95,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN2,2016,NO2,30,75,Greenwich - Millennium Village,Industrial,Greenwich,51.492571,0.017697
+GN2,2016,PM25,12,76,Greenwich - Millennium Village,Industrial,Greenwich,51.492571,0.017697
+GN3,2016,NO2,36,95,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN3,2016,PM25,14,98,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN3,2016,PM10,19,93,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN4,2016,NO2,46,100,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GR4,2016,NO2,21,99,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR4,2016,PM25,12,88,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR4,2016,PM10,19,82,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR7,2016,NO2,46,99,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR7,2016,PM10,24,99,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR8,2016,NO2,64,97,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR8,2016,PM10,29,86,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR9,2016,NO2,42,95,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2016,PM25,13,94,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2016,PM10,23,96,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+HF4,2016,NO2,79,83,Hammersmith and Fulham - Shepherds Bush,Roadside,Hammersmith and Fulham,51.5045625671557,-0.224670007031603
+HF4,2016,PM10,27,98,Hammersmith and Fulham - Shepherds Bush,Roadside,Hammersmith and Fulham,51.5045625671557,-0.224670007031603
+HG1,2016,NO2,43,98,Haringey - Haringey Town Hall,Roadside,Haringey,51.599302,-0.068218
+HG4,2016,NO2,26,99,Haringey  - Priory Park South,Urban Background,Haringey,51.5839769007709,-0.125400278484885
+HI0,2016,NO2,52,99,Hillingdon - Keats Way,Suburban,Hillingdon,51.496309,-0.460826
+HK6,2016,NO2,57,99,Hackney - Old Street,Roadside,Hackney,51.526454,-0.08491
+HK6,2016,PM10,24,85,Hackney - Old Street,Roadside,Hackney,51.526454,-0.08491
+HR1,2016,NO2,26,100,Harrow - Stanmore,Urban Background,Harrow,51.617327,-0.298775
+HR1,2016,PM25,11,91,Harrow - Stanmore,Urban Background,Harrow,51.617327,-0.298775
+HR1,2016,PM10,16,96,Harrow - Stanmore,Urban Background,Harrow,51.617327,-0.298775
+HR2,2016,NO2,44,99,Harrow - Pinner Road,Roadside,Harrow,51.588417,-0.362989
+HR2,2016,PM10,21,97,Harrow - Pinner Road,Roadside,Harrow,51.588417,-0.362989
+HV1,2016,NO2,34,99,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV1,2016,PM25,12,98,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV1,2016,PM10,19,96,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV3,2016,NO2,44,99,Havering - Romford,Roadside,Havering,51.572976,0.179079
+HV3,2016,PM10,21,75,Havering - Romford,Roadside,Havering,51.572976,0.179079
+IM1,2016,NO2,84,97,Camden - Holborn (Bee Midtown),Kerbside,Camden,51.5173675146177,-0.1201947113171
+IS2,2016,NO2,60,93,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS2,2016,PM10,21,99,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS6,2016,NO2,33,99,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+IS6,2016,PM10,18,93,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+KC1,2016,NO2,35,99,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KC1,2016,PM25,12,94,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KC1,2016,PM10,19,99,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KC2,2016,NO2,58,98,Kensington and Chelsea - Cromwell Road,Roadside,Kensington and Chelsea,51.49550391,-0.178809464
+KC2,2016,PM25,17,93,Kensington and Chelsea - Cromwell Road,Roadside,Kensington and Chelsea,51.49550391,-0.178809464
+KC2,2016,PM10,22,96,Kensington and Chelsea - Cromwell Road,Roadside,Kensington and Chelsea,51.49550391,-0.178809464
+KC3,2016,NO2,80,97,Kensington and Chelsea - Knightsbridge,Roadside,Kensington and Chelsea,51.49913951,-0.164337605
+KC4,2016,NO2,78,100,Kensington and Chelsea - Kings Road,Roadside,Kensington and Chelsea,51.48743685,-0.168397129
+KC5,2016,NO2,86,100,Kensington and Chelsea - Earls Court Rd,Kerbside,Kensington and Chelsea,51.49019756,-0.190863311
+KC5,2016,PM10,28,97,Kensington and Chelsea - Earls Court Rd,Kerbside,Kensington and Chelsea,51.49019756,-0.190863311
+KC7,2016,PM10,20,89,Kensington and Chelsea - North Ken FDMS,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KT4,2016,PM10,24,94,Kingston Upon Thames - Tolworth Broadway,Roadside,Kingston,51.379312,-0.281259
+KX4,2016,PM10,18,76,Camden - Coopers Lane,Industrial,Camden,51.533238,-0.129594
+LB4,2016,NO2,118,92,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB4,2016,PM10,36,93,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB5,2016,NO2,68,97,Lambeth - Bondway Interchange,Industrial,Lambeth,51.4854867739729,-0.124545234819213
+LH0,2016,NO2,34,91,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LH0,2016,PM25,10,100,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LH0,2016,PM10,15,100,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LW1,2016,NO2,45,86,Lewisham - Catford,Urban Background,Lewisham,51.445468,-0.020266
+LW2,2016,NO2,46,99,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW2,2016,PM25,19,93,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW2,2016,PM10,24,93,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+MY1,2016,NO2,89,99,Westminster - Marylebone Road,Kerbside,Westminster,51.52254,-0.15459
+MY1,2016,PM10,29,91,Westminster - Marylebone Road,Kerbside,Westminster,51.52254,-0.15459
+MY7,2016,PM25,16,96,Westminster - Marylebone Road FDMS,Kerbside,Westminster,51.52254,-0.15459
+MY7,2016,PM10,26,96,Westminster - Marylebone Road FDMS,Kerbside,Westminster,51.52254,-0.15459
+NB1,2016,NO2,101,91,Westminster - Strand (Northbank BID),Roadside,Westminster,51.5119701188277,-0.116713103528546
+RB4,2016,NO2,42,84,Redbridge - Gardner Close,Roadside,Redbridge,51.57661,0.030858
+RB4,2016,PM10,19,97,Redbridge - Gardner Close,Roadside,Redbridge,51.57661,0.030858
+RB7,2016,NO2,33,98,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RB7,2016,PM10,17,87,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RI1,2016,NO2,36,98,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI1,2016,PM10,19,98,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI2,2016,NO2,25,96,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+RI2,2016,PM10,16,98,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+SK5,2016,NO2,53,81,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK5,2016,PM10,24,95,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK6,2016,NO2,39,91,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK6,2016,PM10,26,81,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+ST4,2016,NO2,63,89,Sutton - Wallington,Kerbside,Sutton,51.3586596124998,-0.149723946604927
+ST4,2016,PM10,21,95,Sutton - Wallington,Kerbside,Sutton,51.3586596124998,-0.149723946604927
+ST5,2016,NO2,36,90,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST5,2016,PM25,14,86,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST5,2016,PM10,24,86,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST6,2016,NO2,57,100,Sutton - Worcester Park,Kerbside,Sutton,51.377923,-0.240414
+ST6,2016,PM10,22,83,Sutton - Worcester Park,Kerbside,Sutton,51.377923,-0.240414
+ST8,2016,NO2,30,97,Sutton - Beddington Lane ,Industrial,Sutton,51.3835652277943,-0.136417861473301
+ST8,2016,PM10,23,95,Sutton - Beddington Lane ,Industrial,Sutton,51.3835652277943,-0.136417861473301
+TD5,2016,PM25,9,92,London Teddington Bushy Park ,Suburban,Richmond,51.4252560360937,-0.345608290872898
+TH2,2016,NO2,52,87,Tower Hamlets - Mile End Road,Roadside,Tower Hamlets,51.5225462561171,-0.0420823040635312
+TH4,2016,NO2,59,88,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TH4,2016,PM10,23,93,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TH6,2016,NO2,25,90,Tower Hamlets - Millwall Park,Urban Background,Tower Hamlets,51.4891342634,-0.0129769309432
+WA2,2016,NO2,43,98,Wandsworth - Wandsworth Town Hall,Urban Background,Wandsworth,51.456962,-0.191074
+WA7,2016,NO2,125,82,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA7,2016,PM10,25,96,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA8,2016,NO2,98,99,Wandsworth - Putney High Street Facade,Roadside,Wandsworth,51.4637206047191,-0.215890144123119
+WA9,2016,NO2,45,88,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WA9,2016,PM10,18,99,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WAA,2016,NO2,40,88,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAA,2016,PM10,32,89,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAB,2016,NO2,59,89,Wandsworth - Tooting High Street,Roadside,Wandsworth,51.429331,-0.166524
+WAB,2016,PM10,24,93,Wandsworth - Tooting High Street,Roadside,Wandsworth,51.429331,-0.166524
+WM0,2016,PM10,17,96,Westminster - Horseferry Road,Urban Background,Westminster,51.494681,-0.131938
+WM6,2016,NO2,87,95,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+BG1,2017,NO2,24,93,Barking and Dagenham - Rush Green,Suburban,Barking and Dagenham,51.563752,0.177891
+BG2,2017,NO2,29,93,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BG2,2017,PM10,19,98,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BL0,2017,NO2,38,99,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BL0,2017,PM25,13,94,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BL0,2017,PM10,19,95,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BQ7,2017,NO2,21,98,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ7,2017,PM10,17,95,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ8,2017,PM10,15,95,Bexley - Belvedere West FDMS,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BT4,2017,NO2,72,87,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT4,2017,PM10,33,92,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT5,2017,NO2,45,97,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT5,2017,PM10,27,99,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT6,2017,NO2,45,100,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT6,2017,PM10,20,98,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BX0,2017,PM10,17,99,Bexley - Belvedere FDMS,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX1,2017,NO2,25,95,Bexley - Slade Green,Suburban,Bexley,51.4659832746662,0.184877126994369
+BX1,2017,PM10,17,99,Bexley - Slade Green,Suburban,Bexley,51.4659832746662,0.184877126994369
+BX2,2017,NO2,28,98,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX2,2017,PM10,14,97,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX9,2017,PM25,11,94,Bexley - Slade Green FDMS,Suburban,Bexley,51.4659832746662,0.184877126994369
+CD1,2017,NO2,53,91,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD1,2017,PM25,16,97,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD1,2017,PM10,20,89,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD9,2017,NO2,83,99,Camden - Euston Road,Roadside,Camden,51.527975,-0.1287742
+CD9,2017,PM25,14,89,Camden - Euston Road,Roadside,Camden,51.527975,-0.1287742
+CD9,2017,PM10,20,89,Camden - Euston Road,Roadside,Camden,51.527975,-0.1287742
+CE1,2017,NO2,35,85,Regent Street facade (The Crown Estate),Roadside,Westminster,51.5111824979787,-0.139114122784456
+CR5,2017,NO2,48,100,Croydon - Norbury,Kerbside,Croydon,51.411349,-0.12311
+CR7,2017,NO2,31,99,Croydon - Purley Way A23,Roadside,Croydon,51.3622305655403,-0.117604507351392
+CR8,2017,PM25,12,98,Croydon - Norbury Manor,Urban Background,Croydon,51.4100146321438,-0.127520139142022
+CR9,2017,NO2,45,100,Croydon - Park Lane,Roadside,Croydon,51.3739530635378,-0.0967638468323854
+CR9,2017,PM10,20,89,Croydon - Park Lane,Roadside,Croydon,51.3739530635378,-0.0967638468323854
+CT2,2017,PM25,16,96,City of London - Farringdon Street,Kerbside,City of London,51.5145253362314,-0.104515626337876
+CT3,2017,NO2,38,99,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT3,2017,PM10,23,99,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT4,2017,NO2,80,99,City of London - Beech Street,Roadside,City of London,51.520225273171,-0.0961060474176381
+CT4,2017,PM10,23,92,City of London - Beech Street,Roadside,City of London,51.520225273171,-0.0961060474176381
+CT6,2017,NO2,92,97,City of London - Walbrook Wharf,Roadside,City of London,51.510499,-0.091634
+CT8,2017,PM10,32,99,City of London - Upper Thames Street,Roadside,City of London,51.5095436853913,-0.0873571979556188
+EA6,2017,NO2,72,97,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA6,2017,PM10,26,97,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA8,2017,NO2,45,95,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EA8,2017,PM10,27,96,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EI1,2017,NO2,51,79,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI1,2017,PM10,26,91,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI8,2017,PM10,26,97,Ealing - Horn Lane TEOM,Industrial,Ealing,51.5189160348806,-0.265652052386222
+EN1,2017,NO2,27,99,Enfield - Bush Hill Park,Suburban,Enfield,51.6450367266602,-0.0661800662229116
+EN4,2017,NO2,38,99,Enfield - Derby Road,Roadside,Enfield,51.614864007,-0.0507658363689
+EN5,2017,NO2,45,87,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN5,2017,PM10,19,97,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN7,2017,NO2,23,99,Enfield - Prince of Wales School,Urban Background,Enfield,51.66864334727,-0.02200720557
+GB0,2017,PM25,13,89,Greenwich - Falconwood FDMS,Roadside,Bexley,51.4563,0.085606
+GB6,2017,NO2,40,97,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GB6,2017,PM10,20,98,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GN0,2017,NO2,35,100,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2017,PM25,12,84,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2017,PM10,18,99,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN3,2017,NO2,34,99,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN3,2017,PM25,12,98,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN3,2017,PM10,20,86,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN4,2017,NO2,41,98,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GR4,2017,NO2,19,97,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR4,2017,PM25,12,88,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR4,2017,PM10,19,90,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR7,2017,NO2,38,100,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR7,2017,PM10,23,98,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR8,2017,NO2,65,92,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR8,2017,PM10,25,94,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR9,2017,NO2,39,97,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2017,PM25,11,99,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2017,PM10,21,97,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+HF4,2017,NO2,74,81,Hammersmith and Fulham - Shepherds Bush,Roadside,Hammersmith and Fulham,51.5045625671557,-0.224670007031603
+HF4,2017,PM10,27,81,Hammersmith and Fulham - Shepherds Bush,Roadside,Hammersmith and Fulham,51.5045625671557,-0.224670007031603
+HG1,2017,NO2,40,99,Haringey - Haringey Town Hall,Roadside,Haringey,51.599302,-0.068218
+HG4,2017,NO2,24,100,Haringey  - Priory Park South,Urban Background,Haringey,51.5839769007709,-0.125400278484885
+HI0,2017,NO2,53,99,Hillingdon - Keats Way,Suburban,Hillingdon,51.496309,-0.460826
+HK6,2017,NO2,57,99,Hackney - Old Street,Roadside,Hackney,51.526454,-0.08491
+HK6,2017,PM10,19,99,Hackney - Old Street,Roadside,Hackney,51.526454,-0.08491
+HR2,2017,NO2,41,97,Harrow - Pinner Road,Roadside,Harrow,51.588417,-0.362989
+HR2,2017,PM10,20,87,Harrow - Pinner Road,Roadside,Harrow,51.588417,-0.362989
+HV1,2017,NO2,34,100,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV1,2017,PM25,12,85,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV1,2017,PM10,18,85,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV3,2017,NO2,40,85,Havering - Romford,Roadside,Havering,51.572976,0.179079
+IM1,2017,NO2,74,88,Camden - Holborn (Bee Midtown),Kerbside,Camden,51.5173675146177,-0.1201947113171
+IS2,2017,NO2,49,91,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS2,2017,PM10,21,99,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS6,2017,NO2,31,95,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+IS6,2017,PM10,18,99,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+KC1,2017,NO2,33,100,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KC1,2017,PM25,12,90,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KC2,2017,NO2,50,80,Kensington and Chelsea - Cromwell Road,Roadside,Kensington and Chelsea,51.49550391,-0.178809464
+KC2,2017,PM10,21,79,Kensington and Chelsea - Cromwell Road,Roadside,Kensington and Chelsea,51.49550391,-0.178809464
+KC3,2017,NO2,66,79,Kensington and Chelsea - Knightsbridge,Roadside,Kensington and Chelsea,51.49913951,-0.164337605
+KC4,2017,NO2,63,80,Kensington and Chelsea - Kings Road,Roadside,Kensington and Chelsea,51.48743685,-0.168397129
+KC5,2017,NO2,77,82,Kensington and Chelsea - Earls Court Rd,Kerbside,Kensington and Chelsea,51.49019756,-0.190863311
+KC7,2017,PM10,17,86,Kensington and Chelsea - North Ken FDMS,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KT4,2017,NO2,49,100,Kingston Upon Thames - Tolworth Broadway,Roadside,Kingston,51.379312,-0.281259
+KT4,2017,PM10,23,97,Kingston Upon Thames - Tolworth Broadway,Roadside,Kingston,51.379312,-0.281259
+KX4,2017,PM10,16,98,Camden - Coopers Lane,Industrial,Camden,51.533238,-0.129594
+LB4,2017,NO2,95,98,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB4,2017,PM10,35,82,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB5,2017,NO2,65,80,Lambeth - Bondway Interchange,Industrial,Lambeth,51.4854867739729,-0.124545234819213
+LB5,2017,PM10,37,94,Lambeth - Bondway Interchange,Industrial,Lambeth,51.4854867739729,-0.124545234819213
+LB6,2017,NO2,30,84,Lambeth - Streatham Green,Urban Background,Lambeth,51.4282131429499,-0.13186863879576
+LH0,2017,NO2,32,100,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LH0,2017,PM25,9,100,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LH0,2017,PM10,15,100,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LW1,2017,NO2,43,100,Lewisham - Catford,Urban Background,Lewisham,51.445468,-0.020266
+LW2,2017,NO2,49,87,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW2,2017,PM25,15,81,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW2,2017,PM10,23,82,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW4,2017,NO2,54,100,Lewisham - Loampit Vale,Roadside,Lewisham,51.4646910611736,-0.0160682432041527
+LW4,2017,PM10,21,86,Lewisham - Loampit Vale,Roadside,Lewisham,51.4646910611736,-0.0160682432041527
+ME2,2017,PM10,24,80,Merton - Merton Road,Roadside,Merton,51.4161384794862,-0.192230805042824
+MY1,2017,NO2,84,99,Westminster - Marylebone Road,Kerbside,Westminster,51.52254,-0.15459
+MY1,2017,PM10,27,99,Westminster - Marylebone Road,Kerbside,Westminster,51.52254,-0.15459
+MY7,2017,PM25,15,96,Westminster - Marylebone Road FDMS,Kerbside,Westminster,51.52254,-0.15459
+MY7,2017,PM10,24,97,Westminster - Marylebone Road FDMS,Kerbside,Westminster,51.52254,-0.15459
+NB1,2017,NO2,92,87,Westminster - Strand (Northbank BID),Roadside,Westminster,51.5119701188277,-0.116713103528546
+RB4,2017,NO2,39,91,Redbridge - Gardner Close,Roadside,Redbridge,51.57661,0.030858
+RB4,2017,PM10,17,90,Redbridge - Gardner Close,Roadside,Redbridge,51.57661,0.030858
+RB7,2017,NO2,30,99,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RB7,2017,PM10,16,97,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RHG,2017,NO2,37,84,Richmond Upon Thames - Chertsey Road,Roadside,Richmond,51.4531422511004,-0.341218138106469
+RHG,2017,PM10,21,83,Richmond Upon Thames - Chertsey Road,Roadside,Richmond,51.4531422511004,-0.341218138106469
+RI1,2017,NO2,31,99,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI1,2017,PM10,18,99,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI2,2017,NO2,21,100,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+RI2,2017,PM10,16,96,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+SK5,2017,NO2,42,97,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK5,2017,PM10,22,91,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK6,2017,NO2,34,97,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK6,2017,PM10,19,99,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+ST4,2017,NO2,53,94,Sutton - Wallington,Kerbside,Sutton,51.3586596124998,-0.149723946604927
+ST4,2017,PM10,28,82,Sutton - Wallington,Kerbside,Sutton,51.3586596124998,-0.149723946604927
+ST5,2017,NO2,32,98,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST5,2017,PM10,31,93,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST6,2017,NO2,52,100,Sutton - Worcester Park,Kerbside,Sutton,51.377923,-0.240414
+ST6,2017,PM10,20,85,Sutton - Worcester Park,Kerbside,Sutton,51.377923,-0.240414
+ST8,2017,NO2,25,95,Sutton - Beddington Lane ,Industrial,Sutton,51.3835652277943,-0.136417861473301
+ST8,2017,PM10,23,98,Sutton - Beddington Lane ,Industrial,Sutton,51.3835652277943,-0.136417861473301
+TD5,2017,PM25,10,94,London Teddington Bushy Park ,Suburban,Richmond,51.4252560360937,-0.345608290872898
+TH2,2017,NO2,48,99,Tower Hamlets - Mile End Road,Roadside,Tower Hamlets,51.5225462561171,-0.0420823040635312
+TH4,2017,NO2,56,97,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TH4,2017,PM25,13,86,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TH4,2017,PM10,25,94,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+WA2,2017,NO2,40,97,Wandsworth - Wandsworth Town Hall,Urban Background,Wandsworth,51.456962,-0.191074
+WA7,2017,NO2,76,77,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA7,2017,PM10,25,88,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA8,2017,NO2,60,98,Wandsworth - Putney High Street Facade,Roadside,Wandsworth,51.4637206047191,-0.215890144123119
+WA9,2017,NO2,31,79,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WA9,2017,PM10,17,98,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WAA,2017,NO2,33,81,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAA,2017,PM10,27,99,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAB,2017,NO2,55,86,Wandsworth - Tooting High Street,Roadside,Wandsworth,51.429331,-0.166524
+WAB,2017,PM10,23,93,Wandsworth - Tooting High Street,Roadside,Wandsworth,51.429331,-0.166524
+WAC,2017,NO2,43,92,Lavender Hill,Roadside,Wandsworth,51.4636903568111,-0.166713485994806
+WAC,2017,PM10,20,99,Lavender Hill,Roadside,Wandsworth,51.4636903568111,-0.166713485994806
+WM0,2017,NO2,36,83,Westminster - Horseferry Road,Urban Background,Westminster,51.494681,-0.131938
+WM0,2017,PM10,17,93,Westminster - Horseferry Road,Urban Background,Westminster,51.494681,-0.131938
+WM6,2017,NO2,72,98,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+BG2,2018,NO2,26,93,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BL0,2018,NO2,36,99,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BL0,2018,PM25,10,92,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BL0,2018,PM10,17,88,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BQ7,2018,NO2,21,99,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ7,2018,PM10,19,99,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ8,2018,PM10,15,98,Bexley - Belvedere West FDMS,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BT4,2018,NO2,71,90,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT4,2018,PM10,32,99,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT5,2018,NO2,39,98,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT5,2018,PM10,28,99,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT6,2018,NO2,39,100,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT6,2018,PM10,20,84,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT8,2018,NO2,46,96,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BT8,2018,PM10,19,88,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BX0,2018,PM10,19,89,Bexley - Belvedere FDMS,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX1,2018,NO2,23,99,Bexley - Slade Green,Suburban,Bexley,51.4659832746662,0.184877126994369
+BX1,2018,PM10,18,97,Bexley - Slade Green,Suburban,Bexley,51.4659832746662,0.184877126994369
+BX2,2018,NO2,28,93,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX2,2018,PM10,19,99,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX9,2018,PM25,12,99,Bexley - Slade Green FDMS,Suburban,Bexley,51.4659832746662,0.184877126994369
+CD1,2018,NO2,54,96,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD1,2018,PM25,11,88,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD1,2018,PM10,21,97,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD9,2018,NO2,87,75,Camden - Euston Road,Roadside,Camden,51.527975,-0.1287742
+CE1,2018,NO2,36,95,Regent Street facade (The Crown Estate),Roadside,Westminster,51.5111824979787,-0.139114122784456
+CR5,2018,NO2,49,100,Croydon - Norbury,Kerbside,Croydon,51.411349,-0.12311
+CR7,2018,NO2,31,100,Croydon - Purley Way A23,Roadside,Croydon,51.3622305655403,-0.117604507351392
+CR8,2018,PM25,11,94,Croydon - Norbury Manor,Urban Background,Croydon,51.4100146321438,-0.127520139142022
+CR9,2018,NO2,41,100,Croydon - Park Lane,Roadside,Croydon,51.3739530635378,-0.0967638468323854
+CR9,2018,PM10,21,92,Croydon - Park Lane,Roadside,Croydon,51.3739530635378,-0.0967638468323854
+CT2,2018,PM25,16,92,City of London - Farringdon Street,Kerbside,City of London,51.5145253362314,-0.104515626337876
+CT3,2018,NO2,32,97,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT3,2018,PM25,12,91,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT3,2018,PM10,21,97,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT4,2018,NO2,69,95,City of London - Beech Street,Roadside,City of London,51.520225273171,-0.0961060474176381
+CT4,2018,PM10,25,96,City of London - Beech Street,Roadside,City of London,51.520225273171,-0.0961060474176381
+CT6,2018,NO2,87,99,City of London - Walbrook Wharf,Roadside,City of London,51.510499,-0.091634
+CT8,2018,PM10,32,92,City of London - Upper Thames Street,Roadside,City of London,51.5095436853913,-0.0873571979556188
+EA6,2018,NO2,68,79,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA6,2018,PM10,28,87,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA8,2018,NO2,44,98,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EA8,2018,PM10,25,99,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EI1,2018,PM10,28,98,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI3,2018,NO2,29,100,Ealing - Acton Vale ,Urban Background,Ealing,51.5038527919816,-0.254668101620372
+EI3,2018,PM10,19,93,Ealing - Acton Vale ,Urban Background,Ealing,51.5038527919816,-0.254668101620372
+EI8,2018,PM10,26,100,Ealing - Horn Lane TEOM,Industrial,Ealing,51.5189160348806,-0.265652052386222
+EN1,2018,NO2,26,100,Enfield - Bush Hill Park,Suburban,Enfield,51.6450367266602,-0.0661800662229116
+EN4,2018,NO2,35,99,Enfield - Derby Road,Roadside,Enfield,51.614864007,-0.0507658363689
+EN5,2018,NO2,44,99,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN5,2018,PM10,18,88,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN7,2018,NO2,23,98,Enfield - Prince of Wales School,Urban Background,Enfield,51.66864334727,-0.02200720557
+GB0,2018,PM25,13,96,Greenwich - Falconwood FDMS,Roadside,Bexley,51.4563,0.085606
+GB6,2018,NO2,39,99,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GB6,2018,PM10,21,99,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GN0,2018,NO2,35,100,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2018,PM25,13,97,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2018,PM10,18,99,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN3,2018,NO2,33,100,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN3,2018,PM25,13,99,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN3,2018,PM10,18,99,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN4,2018,NO2,40,99,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GN5,2018,NO2,43,98,Greenwich - Trafalgar Road (Hoskins St),Roadside,Greenwich,51.4839072533485,0.000407396935849736
+GN5,2018,PM10,22,99,Greenwich - Trafalgar Road (Hoskins St),Roadside,Greenwich,51.4839072533485,0.000407396935849736
+GR4,2018,NO2,16,96,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR4,2018,PM25,10,83,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR7,2018,NO2,35,100,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR7,2018,PM10,22,98,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR8,2018,NO2,57,96,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR8,2018,PM10,25,100,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR9,2018,NO2,38,97,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2018,PM25,11,100,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2018,PM10,18,97,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+HG1,2018,NO2,39,100,Haringey - Haringey Town Hall,Roadside,Haringey,51.599302,-0.068218
+HG4,2018,NO2,23,99,Haringey  - Priory Park South,Urban Background,Haringey,51.5839769007709,-0.125400278484885
+HI0,2018,NO2,46,93,Hillingdon - Keats Way,Suburban,Hillingdon,51.496309,-0.460826
+HK6,2018,NO2,50,99,Hackney - Old Street,Roadside,Hackney,51.526454,-0.08491
+HK6,2018,PM10,22,89,Hackney - Old Street,Roadside,Hackney,51.526454,-0.08491
+HR2,2018,NO2,39,100,Harrow - Pinner Road,Roadside,Harrow,51.588417,-0.362989
+HR2,2018,PM10,19,100,Harrow - Pinner Road,Roadside,Harrow,51.588417,-0.362989
+HV1,2018,NO2,30,100,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV1,2018,PM25,11,98,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV1,2018,PM10,17,98,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV3,2018,NO2,38,84,Havering - Romford,Roadside,Havering,51.572976,0.179079
+HV3,2018,PM10,20,97,Havering - Romford,Roadside,Havering,51.572976,0.179079
+IS2,2018,NO2,47,100,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS2,2018,PM10,20,99,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS6,2018,NO2,27,98,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+IS6,2018,PM10,19,99,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+KC1,2018,NO2,27,75,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KC1,2018,PM25,9,75,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KC7,2018,PM10,14,100,Kensington and Chelsea - North Ken FDMS,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KF1,2018,PM25,9,100,Kensington and Chelsea - North Ken FIDAS,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KF1,2018,PM10,14,100,Kensington and Chelsea - North Ken FIDAS,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KT4,2018,NO2,44,96,Kingston Upon Thames - Tolworth Broadway,Roadside,Kingston,51.379312,-0.281259
+KT4,2018,PM10,23,97,Kingston Upon Thames - Tolworth Broadway,Roadside,Kingston,51.379312,-0.281259
+KT6,2018,NO2,36,80,Kingston Upon Thames - Kingston Vale,Roadside,Kingston,51.4355006647773,-0.257029893767993
+KT6,2018,PM10,22,80,Kingston Upon Thames - Kingston Vale,Roadside,Kingston,51.4355006647773,-0.257029893767993
+KX4,2018,PM10,15,96,Camden - Coopers Lane,Industrial,Camden,51.533238,-0.129594
+LB5,2018,NO2,54,99,Lambeth - Bondway Interchange,Industrial,Lambeth,51.4854867739729,-0.124545234819213
+LB5,2018,PM10,34,99,Lambeth - Bondway Interchange,Industrial,Lambeth,51.4854867739729,-0.124545234819213
+LB6,2018,NO2,34,99,Lambeth - Streatham Green,Urban Background,Lambeth,51.4282131429499,-0.13186863879576
+LB6,2018,PM10,20,99,Lambeth - Streatham Green,Urban Background,Lambeth,51.4282131429499,-0.13186863879576
+LH0,2018,NO2,30,92,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LH0,2018,PM25,9,97,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LH0,2018,PM10,15,97,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LW1,2018,NO2,37,99,Lewisham - Catford,Urban Background,Lewisham,51.445468,-0.020266
+LW2,2018,NO2,42,96,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW2,2018,PM25,15,84,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW2,2018,PM10,21,96,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW4,2018,NO2,46,99,Lewisham - Loampit Vale,Roadside,Lewisham,51.4646910611736,-0.0160682432041527
+LW4,2018,PM10,19,97,Lewisham - Loampit Vale,Roadside,Lewisham,51.4646910611736,-0.0160682432041527
+ME9,2018,NO2,48,100,Merton - Morden Civic Centre 2,Roadside,Merton,51.40162,-0.19589212
+MY1,2018,NO2,85,98,Westminster - Marylebone Road,Kerbside,Westminster,51.52254,-0.15459
+MY1,2018,PM10,26,99,Westminster - Marylebone Road,Kerbside,Westminster,51.52254,-0.15459
+MY7,2018,PM25,16,90,Westminster - Marylebone Road FDMS,Kerbside,Westminster,51.52254,-0.15459
+MY7,2018,PM10,24,97,Westminster - Marylebone Road FDMS,Kerbside,Westminster,51.52254,-0.15459
+NB1,2018,NO2,88,95,Westminster - Strand (Northbank BID),Roadside,Westminster,51.5119701188277,-0.116713103528546
+RB4,2018,NO2,37,94,Redbridge - Gardner Close,Roadside,Redbridge,51.57661,0.030858
+RB4,2018,PM10,18,95,Redbridge - Gardner Close,Roadside,Redbridge,51.57661,0.030858
+RB7,2018,NO2,31,97,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RB7,2018,PM10,18,87,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RHG,2018,NO2,34,94,Richmond Upon Thames - Chertsey Road,Roadside,Richmond,51.4531422511004,-0.341218138106469
+RHG,2018,PM10,21,94,Richmond Upon Thames - Chertsey Road,Roadside,Richmond,51.4531422511004,-0.341218138106469
+RI1,2018,NO2,31,99,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI1,2018,PM10,17,99,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI2,2018,NO2,20,97,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+RI2,2018,PM10,14,95,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+SK5,2018,NO2,41,85,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK5,2018,PM10,22,81,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK6,2018,NO2,32,99,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK6,2018,PM10,20,98,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+ST4,2018,NO2,47,99,Sutton - Wallington,Kerbside,Sutton,51.3586596124998,-0.149723946604927
+ST4,2018,PM10,23,98,Sutton - Wallington,Kerbside,Sutton,51.3586596124998,-0.149723946604927
+ST5,2018,NO2,29,96,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST5,2018,PM25,12,97,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST5,2018,PM10,22,98,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST6,2018,NO2,52,100,Sutton - Worcester Park,Kerbside,Sutton,51.377923,-0.240414
+ST6,2018,PM10,20,99,Sutton - Worcester Park,Kerbside,Sutton,51.377923,-0.240414
+ST8,2018,NO2,25,96,Sutton - Beddington Lane ,Industrial,Sutton,51.3835652277943,-0.136417861473301
+ST8,2018,PM10,22,98,Sutton - Beddington Lane ,Industrial,Sutton,51.3835652277943,-0.136417861473301
+TD5,2018,PM25,11,95,London Teddington Bushy Park ,Suburban,Richmond,51.4252560360937,-0.345608290872898
+TH2,2018,NO2,47,96,Tower Hamlets - Mile End Road,Roadside,Tower Hamlets,51.5225462561171,-0.0420823040635312
+TH4,2018,NO2,51,99,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TH4,2018,PM25,13,83,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TH4,2018,PM10,24,93,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+WA2,2018,NO2,38,97,Wandsworth - Wandsworth Town Hall,Urban Background,Wandsworth,51.456962,-0.191074
+WA7,2018,NO2,67,90,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA7,2018,PM10,25,96,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA8,2018,NO2,62,86,Wandsworth - Putney High Street Facade,Roadside,Wandsworth,51.4637206047191,-0.215890144123119
+WA9,2018,NO2,35,87,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WA9,2018,PM10,17,95,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WAA,2018,PM10,25,99,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAB,2018,NO2,53,91,Wandsworth - Tooting High Street,Roadside,Wandsworth,51.429331,-0.166524
+WAB,2018,PM10,23,97,Wandsworth - Tooting High Street,Roadside,Wandsworth,51.429331,-0.166524
+WAC,2018,NO2,42,94,Lavender Hill,Roadside,Wandsworth,51.4636903568111,-0.166713485994806
+WAC,2018,PM10,21,99,Lavender Hill,Roadside,Wandsworth,51.4636903568111,-0.166713485994806
+WM0,2018,NO2,31,97,Westminster - Horseferry Road,Urban Background,Westminster,51.494681,-0.131938
+WM0,2018,PM10,17,97,Westminster - Horseferry Road,Urban Background,Westminster,51.494681,-0.131938
+WM5,2018,NO2,39,99,Westminster - Covent Garden,Urban Background,Westminster,51.5119769825798,-0.12162720332856
+WM6,2018,NO2,63,87,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+WMA,2018,NO2,52,85,Westminster - Buckingham Palace Road,Roadside,Westminster,51.4932327916861,-0.147391757027028
+BG2,2019,NO2,24,89,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BG2,2019,PM10,18,89,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BL0,2019,NO2,32,98,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BL0,2019,PM25,11,98,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BL0,2019,PM10,18,92,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BQ7,2019,NO2,21,98,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ7,2019,PM10,18,100,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ8,2019,PM10,14,99,Bexley - Belvedere West FDMS,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BT4,2019,NO2,63,98,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT4,2019,PM10,30,97,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT5,2019,NO2,38,99,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT5,2019,PM10,26,100,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT6,2019,NO2,37,97,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT6,2019,PM10,19,84,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT8,2019,NO2,41,99,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BT8,2019,PM10,18,98,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BX0,2019,PM10,19,95,Bexley - Belvedere FDMS,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX1,2019,NO2,22,99,Bexley - Slade Green,Suburban,Bexley,51.4659832746662,0.184877126994369
+BX1,2019,PM10,17,99,Bexley - Slade Green,Suburban,Bexley,51.4659832746662,0.184877126994369
+BX2,2019,NO2,23,87,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX2,2019,PM10,19,100,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX9,2019,PM25,12,82,Bexley - Slade Green FDMS,Suburban,Bexley,51.4659832746662,0.184877126994369
+CD1,2019,NO2,43,99,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD1,2019,PM25,11,98,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD1,2019,PM10,19,96,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD9,2019,NO2,70,78,Camden - Euston Road,Roadside,Camden,51.527975,-0.1287742
+CD9,2019,PM25,14,100,Camden - Euston Road,Roadside,Camden,51.527975,-0.1287742
+CD9,2019,PM10,22,100,Camden - Euston Road,Roadside,Camden,51.527975,-0.1287742
+CR5,2019,NO2,44,95,Croydon - Norbury,Kerbside,Croydon,51.411349,-0.12311
+CR7,2019,NO2,29,99,Croydon - Purley Way A23,Roadside,Croydon,51.3622305655403,-0.117604507351392
+CR8,2019,PM25,10,99,Croydon - Norbury Manor,Urban Background,Croydon,51.4100146321438,-0.127520139142022
+CR9,2019,NO2,44,92,Croydon - Park Lane,Roadside,Croydon,51.3739530635378,-0.0967638468323854
+CR9,2019,PM10,22,87,Croydon - Park Lane,Roadside,Croydon,51.3739530635378,-0.0967638468323854
+CT2,2019,PM25,14,96,City of London - Farringdon Street,Kerbside,City of London,51.5145253362314,-0.104515626337876
+CT3,2019,NO2,33,96,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT3,2019,PM25,12,86,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT3,2019,PM10,19,98,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT4,2019,NO2,62,99,City of London - Beech Street,Roadside,City of London,51.520225273171,-0.0961060474176381
+CT4,2019,PM10,22,97,City of London - Beech Street,Roadside,City of London,51.520225273171,-0.0961060474176381
+CT6,2019,NO2,74,98,City of London - Walbrook Wharf,Roadside,City of London,51.510499,-0.091634
+CT8,2019,PM10,27,81,City of London - Upper Thames Street,Roadside,City of London,51.5095436853913,-0.0873571979556188
+EA6,2019,NO2,65,91,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA6,2019,PM10,25,94,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA8,2019,NO2,42,98,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EA8,2019,PM10,28,82,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EI1,2019,NO2,49,99,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI1,2019,PM10,25,98,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI3,2019,NO2,27,100,Ealing - Acton Vale ,Urban Background,Ealing,51.5038527919816,-0.254668101620372
+EI3,2019,PM10,18,91,Ealing - Acton Vale ,Urban Background,Ealing,51.5038527919816,-0.254668101620372
+EI8,2019,PM10,26,81,Ealing - Horn Lane TEOM,Industrial,Ealing,51.5189160348806,-0.265652052386222
+EN1,2019,NO2,22,99,Enfield - Bush Hill Park,Suburban,Enfield,51.6450367266602,-0.0661800662229116
+EN4,2019,NO2,37,99,Enfield - Derby Road,Roadside,Enfield,51.614864007,-0.0507658363689
+EN5,2019,NO2,41,97,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN5,2019,PM10,19,89,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN7,2019,NO2,23,99,Enfield - Prince of Wales School,Urban Background,Enfield,51.66864334727,-0.02200720557
+GB0,2019,PM25,12,99,Greenwich - Falconwood FDMS,Roadside,Bexley,51.4563,0.085606
+GB6,2019,NO2,36,100,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GB6,2019,PM10,19,99,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GN0,2019,NO2,33,99,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2019,PM10,17,98,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN3,2019,NO2,34,97,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN3,2019,PM25,13,95,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN4,2019,NO2,37,94,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GN4,2019,PM10,25,98,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GN5,2019,NO2,41,100,Greenwich - Trafalgar Road (Hoskins St),Roadside,Greenwich,51.4839072533485,0.000407396935849736
+GN5,2019,PM10,22,99,Greenwich - Trafalgar Road (Hoskins St),Roadside,Greenwich,51.4839072533485,0.000407396935849736
+GN6,2019,NO2,33,100,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GN6,2019,PM25,11,94,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GN6,2019,PM10,14,97,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GR4,2019,NO2,17,97,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR4,2019,PM25,11,97,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR4,2019,PM10,14,87,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR7,2019,NO2,38,100,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR7,2019,PM10,20,95,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR8,2019,NO2,52,100,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR8,2019,PM10,23,99,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR9,2019,NO2,34,97,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2019,PM25,10,99,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GV1,2019,NO2,35,98,Westminster - Ebury Street (Grosvenor),Roadside,Westminster,51.493492,-0.149906
+HG1,2019,NO2,34,95,Haringey - Haringey Town Hall,Roadside,Haringey,51.599302,-0.068218
+HG4,2019,NO2,22,99,Haringey  - Priory Park South,Urban Background,Haringey,51.5839769007709,-0.125400278484885
+HI0,2019,NO2,45,91,Hillingdon - Keats Way,Suburban,Hillingdon,51.496309,-0.460826
+HK6,2019,NO2,47,99,Hackney - Old Street,Roadside,Hackney,51.526454,-0.08491
+HK6,2019,PM10,22,91,Hackney - Old Street,Roadside,Hackney,51.526454,-0.08491
+HP1,2019,NO2,23,97,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HP1,2019,PM25,10,100,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HP1,2019,PM10,15,100,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HR1,2019,NO2,20,100,Harrow - Stanmore,Urban Background,Harrow,51.617327,-0.298775
+HR1,2019,PM10,15,99,Harrow - Stanmore,Urban Background,Harrow,51.617327,-0.298775
+HR2,2019,NO2,36,100,Harrow - Pinner Road,Roadside,Harrow,51.588417,-0.362989
+HR2,2019,PM10,18,75,Harrow - Pinner Road,Roadside,Harrow,51.588417,-0.362989
+HV1,2019,NO2,29,100,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV1,2019,PM25,11,96,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV1,2019,PM10,17,96,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV3,2019,NO2,38,99,Havering - Romford,Roadside,Havering,51.572976,0.179079
+HV3,2019,PM10,21,99,Havering - Romford,Roadside,Havering,51.572976,0.179079
+IM1,2019,NO2,55,88,Camden - Holborn (Bee Midtown),Kerbside,Camden,51.5173675146177,-0.1201947113171
+IS2,2019,NO2,40,98,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS2,2019,PM10,20,95,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS6,2019,NO2,25,95,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+IS6,2019,PM10,19,100,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+KC1,2019,NO2,27,99,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KC1,2019,PM25,10,100,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KC7,2019,PM10,15,100,Kensington and Chelsea - North Ken FDMS,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KF1,2019,PM25,10,100,Kensington and Chelsea - North Ken FIDAS,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KF1,2019,PM10,15,100,Kensington and Chelsea - North Ken FIDAS,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KT4,2019,NO2,41,98,Kingston Upon Thames - Tolworth Broadway,Roadside,Kingston,51.379312,-0.281259
+KT4,2019,PM10,22,96,Kingston Upon Thames - Tolworth Broadway,Roadside,Kingston,51.379312,-0.281259
+KT5,2019,NO2,57,99,Kingston Upon Thames - Cromwell Road,Roadside,Kingston,51.412308,-0.29658478
+KT5,2019,PM10,26,99,Kingston Upon Thames - Cromwell Road,Roadside,Kingston,51.412308,-0.29658478
+KT6,2019,NO2,33,99,Kingston Upon Thames - Kingston Vale,Roadside,Kingston,51.4355006647773,-0.257029893767993
+KT6,2019,PM10,20,99,Kingston Upon Thames - Kingston Vale,Roadside,Kingston,51.4355006647773,-0.257029893767993
+KX4,2019,PM10,15,93,Camden - Coopers Lane,Industrial,Camden,51.533238,-0.129594
+LB4,2019,NO2,75,79,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB4,2019,PM10,25,77,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB5,2019,NO2,48,100,Lambeth - Bondway Interchange,Industrial,Lambeth,51.4854867739729,-0.124545234819213
+LB5,2019,PM10,38,100,Lambeth - Bondway Interchange,Industrial,Lambeth,51.4854867739729,-0.124545234819213
+LB6,2019,NO2,32,99,Lambeth - Streatham Green,Urban Background,Lambeth,51.4282131429499,-0.13186863879576
+LB6,2019,PM10,19,98,Lambeth - Streatham Green,Urban Background,Lambeth,51.4282131429499,-0.13186863879576
+LH0,2019,NO2,31,99,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LH0,2019,PM25,10,97,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LH0,2019,PM10,15,97,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LW1,2019,NO2,33,100,Lewisham - Catford,Urban Background,Lewisham,51.445468,-0.020266
+LW2,2019,NO2,38,95,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW2,2019,PM25,15,88,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW2,2019,PM10,20,76,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW4,2019,NO2,43,100,Lewisham - Loampit Vale,Roadside,Lewisham,51.4646910611736,-0.0160682432041527
+LW4,2019,PM10,20,98,Lewisham - Loampit Vale,Roadside,Lewisham,51.4646910611736,-0.0160682432041527
+ME2,2019,PM10,28,97,Merton - Merton Road,Roadside,Merton,51.4161384794862,-0.192230805042824
+ME9,2019,NO2,51,97,Merton - Morden Civic Centre 2,Roadside,Merton,51.40162,-0.19589212
+MY1,2019,NO2,63,95,Westminster - Marylebone Road,Kerbside,Westminster,51.52254,-0.15459
+MY7,2019,PM25,14,91,Westminster - Marylebone Road FDMS,Kerbside,Westminster,51.52254,-0.15459
+MY7,2019,PM10,22,96,Westminster - Marylebone Road FDMS,Kerbside,Westminster,51.52254,-0.15459
+NB1,2019,NO2,76,99,Westminster - Strand (Northbank BID),Roadside,Westminster,51.5119701188277,-0.116713103528546
+NM2,2019,NO2,29,99,Newham - Cam Road,Roadside,Newham,51.537598,-0.002138
+NM2,2019,PM10,18,93,Newham - Cam Road,Roadside,Newham,51.537598,-0.002138
+NM3,2019,NO2,28,100,Newham - Wren Close,Urban Background,Newham,51.514727,0.014554
+NM3,2019,PM10,18,98,Newham - Wren Close,Urban Background,Newham,51.514727,0.014554
+RB4,2019,NO2,37,99,Redbridge - Gardner Close,Roadside,Redbridge,51.57661,0.030858
+RB4,2019,PM10,19,94,Redbridge - Gardner Close,Roadside,Redbridge,51.57661,0.030858
+RB7,2019,NO2,30,99,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RB7,2019,PM10,16,90,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RHG,2019,NO2,36,97,Richmond Upon Thames - Chertsey Road,Roadside,Richmond,51.4531422511004,-0.341218138106469
+RHG,2019,PM10,20,96,Richmond Upon Thames - Chertsey Road,Roadside,Richmond,51.4531422511004,-0.341218138106469
+RI1,2019,NO2,27,99,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI1,2019,PM10,15,90,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI2,2019,NO2,21,95,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+RI2,2019,PM10,16,95,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+SK5,2019,NO2,38,98,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK5,2019,PM10,24,90,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK6,2019,NO2,30,99,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK6,2019,PM10,17,90,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+ST4,2019,NO2,46,90,Sutton - Wallington,Kerbside,Sutton,51.3586596124998,-0.149723946604927
+ST4,2019,PM10,21,99,Sutton - Wallington,Kerbside,Sutton,51.3586596124998,-0.149723946604927
+ST5,2019,NO2,29,97,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST5,2019,PM25,12,99,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST5,2019,PM10,22,98,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST6,2019,NO2,51,99,Sutton - Worcester Park,Kerbside,Sutton,51.377923,-0.240414
+ST8,2019,NO2,25,96,Sutton - Beddington Lane ,Industrial,Sutton,51.3835652277943,-0.136417861473301
+ST8,2019,PM10,17,95,Sutton - Beddington Lane ,Industrial,Sutton,51.3835652277943,-0.136417861473301
+TD5,2019,PM25,12,93,London Teddington Bushy Park ,Suburban,Richmond,51.4252560360937,-0.345608290872898
+TH2,2019,NO2,35,100,Tower Hamlets - Mile End Road,Roadside,Tower Hamlets,51.5225462561171,-0.0420823040635312
+TH4,2019,NO2,47,99,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+WA2,2019,NO2,41,100,Wandsworth - Wandsworth Town Hall,Urban Background,Wandsworth,51.456962,-0.191074
+WA7,2019,NO2,69,92,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA7,2019,PM10,22,86,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA8,2019,NO2,66,97,Wandsworth - Putney High Street Facade,Roadside,Wandsworth,51.4637206047191,-0.215890144123119
+WA9,2019,NO2,35,95,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WA9,2019,PM10,19,93,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WAA,2019,NO2,31,91,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAA,2019,PM10,23,99,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAB,2019,NO2,50,89,Wandsworth - Tooting High Street,Roadside,Wandsworth,51.429331,-0.166524
+WAB,2019,PM10,25,85,Wandsworth - Tooting High Street,Roadside,Wandsworth,51.429331,-0.166524
+WM0,2019,NO2,34,76,Westminster - Horseferry Road,Urban Background,Westminster,51.494681,-0.131938
+WM0,2019,PM10,17,86,Westminster - Horseferry Road,Urban Background,Westminster,51.494681,-0.131938
+WM5,2019,NO2,39,85,Westminster - Covent Garden,Urban Background,Westminster,51.5119769825798,-0.12162720332856
+WM6,2019,NO2,55,97,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+WM6,2019,PM10,27,98,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+WMA,2019,NO2,51,99,Westminster - Buckingham Palace Road,Roadside,Westminster,51.4932327916861,-0.147391757027028
+WMB,2019,NO2,51,98,Westminster - Oxford Street East,Roadside,Westminster,51.516066,-0.13516388
+WMC,2019,NO2,50,99,Westminster - Cavendish Square,Roadside,Westminster,51.5168016452062,-0.145657269364411
+WMC,2019,PM10,25,97,Westminster - Cavendish Square,Roadside,Westminster,51.5168016452062,-0.145657269364411
+BG1,2020,NO2,17,99,Barking and Dagenham - Rush Green,Suburban,Barking and Dagenham,51.563752,0.177891
+BG2,2020,NO2,20,99,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BG2,2020,PM10,18,99,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BL0,2020,NO2,28,78,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BL0,2020,PM25,9,88,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BL0,2020,PM10,16,91,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BQ7,2020,NO2,17,100,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ7,2020,PM10,18,98,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BT4,2020,NO2,49,91,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT4,2020,PM10,25,91,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT5,2020,NO2,29,100,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT5,2020,PM10,21,98,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT6,2020,NO2,29,100,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT6,2020,PM10,18,99,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT8,2020,NO2,29,100,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BT8,2020,PM10,16,91,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BX0,2020,PM10,18,90,Bexley - Belvedere FDMS,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX1,2020,NO2,19,97,Bexley - Slade Green,Suburban,Bexley,51.4659832746662,0.184877126994369
+BX1,2020,PM10,18,75,Bexley - Slade Green,Suburban,Bexley,51.4659832746662,0.184877126994369
+BX2,2020,NO2,18,95,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX2,2020,PM10,18,99,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX9,2020,PM25,9,89,Bexley - Slade Green FDMS,Suburban,Bexley,51.4659832746662,0.184877126994369
+BY7,2020,NO2,21,96,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+BY7,2020,PM10,16,98,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+CD1,2020,NO2,33,93,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD1,2020,PM25,10,98,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD1,2020,PM10,16,97,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CR5,2020,NO2,35,99,Croydon - Norbury,Kerbside,Croydon,51.411349,-0.12311
+CR7,2020,NO2,24,100,Croydon - Purley Way A23,Roadside,Croydon,51.3622305655403,-0.117604507351392
+CR8,2020,PM25,9,94,Croydon - Norbury Manor,Urban Background,Croydon,51.4100146321438,-0.127520139142022
+CT3,2020,NO2,22,95,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT3,2020,PM25,12,87,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT3,2020,PM10,16,93,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT4,2020,NO2,29,99,City of London - Beech Street,Roadside,City of London,51.520225273171,-0.0961060474176381
+CT4,2020,PM10,18,96,City of London - Beech Street,Roadside,City of London,51.520225273171,-0.0961060474176381
+CT6,2020,NO2,45,87,City of London - Walbrook Wharf,Roadside,City of London,51.510499,-0.091634
+CT8,2020,PM10,24,93,City of London - Upper Thames Street,Roadside,City of London,51.5095436853913,-0.0873571979556188
+EA6,2020,NO2,51,100,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA6,2020,PM10,22,100,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA8,2020,NO2,33,97,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EA8,2020,PM10,24,90,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EI1,2020,NO2,35,98,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI1,2020,PM10,22,93,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI8,2020,PM10,21,90,Ealing - Horn Lane TEOM,Industrial,Ealing,51.5189160348806,-0.265652052386222
+EN1,2020,NO2,18,100,Enfield - Bush Hill Park,Suburban,Enfield,51.6450367266602,-0.0661800662229116
+EN4,2020,NO2,28,98,Enfield - Derby Road,Roadside,Enfield,51.614864007,-0.0507658363689
+EN5,2020,NO2,30,100,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN5,2020,PM10,15,90,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN7,2020,NO2,18,100,Enfield - Prince of Wales School,Urban Background,Enfield,51.66864334727,-0.02200720557
+GB0,2020,PM25,11,81,Greenwich - Falconwood FDMS,Roadside,Bexley,51.4563,0.085606
+GB6,2020,NO2,27,100,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GB6,2020,PM10,18,100,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GN0,2020,NO2,26,100,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2020,PM25,12,81,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2020,PM10,14,94,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN3,2020,NO2,30,100,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN3,2020,PM25,10,96,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN4,2020,NO2,26,80,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GN4,2020,PM10,23,84,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GN5,2020,NO2,34,100,Greenwich - Trafalgar Road (Hoskins St),Roadside,Greenwich,51.4839072533485,0.000407396935849736
+GN5,2020,PM10,19,100,Greenwich - Trafalgar Road (Hoskins St),Roadside,Greenwich,51.4839072533485,0.000407396935849736
+GN6,2020,NO2,26,100,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GN6,2020,PM25,9,86,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GN6,2020,PM10,19,88,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GR4,2020,NO2,13,94,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR4,2020,PM25,10,96,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR4,2020,PM10,14,100,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR7,2020,NO2,29,95,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR8,2020,NO2,43,99,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR8,2020,PM10,21,99,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR9,2020,NO2,25,100,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2020,PM25,8,92,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2020,PM10,19,81,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GV1,2020,NO2,23,99,Westminster - Ebury Street (Grosvenor),Roadside,Westminster,51.493492,-0.149906
+GV2,2020,NO2,28,99,Westminster - Duke Street (Grosvenor),Roadside,Westminster,51.5129998832095,-0.150913488159214
+HG1,2020,NO2,33,98,Haringey - Haringey Town Hall,Roadside,Haringey,51.599302,-0.068218
+HG4,2020,NO2,16,100,Haringey  - Priory Park South,Urban Background,Haringey,51.5839769007709,-0.125400278484885
+HI0,2020,NO2,28,98,Hillingdon - Keats Way,Suburban,Hillingdon,51.496309,-0.460826
+HK6,2020,NO2,37,97,Hackney - Old Street,Roadside,Hackney,51.526454,-0.08491
+HK6,2020,PM10,19,97,Hackney - Old Street,Roadside,Hackney,51.526454,-0.08491
+HP1,2020,NO2,16,100,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HP1,2020,PM25,9,100,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HP1,2020,PM10,14,100,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HR1,2020,NO2,15,100,Harrow - Stanmore,Urban Background,Harrow,51.617327,-0.298775
+HR1,2020,PM10,14,95,Harrow - Stanmore,Urban Background,Harrow,51.617327,-0.298775
+HR2,2020,PM10,16,98,Harrow - Pinner Road,Roadside,Harrow,51.588417,-0.362989
+HV1,2020,NO2,23,100,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV1,2020,PM25,9,100,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV1,2020,PM10,15,100,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV3,2020,NO2,29,99,Havering - Romford,Roadside,Havering,51.572976,0.179079
+HV3,2020,PM10,20,88,Havering - Romford,Roadside,Havering,51.572976,0.179079
+IS2,2020,NO2,31,98,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS2,2020,PM10,18,94,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS6,2020,NO2,20,98,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+IS6,2020,PM10,17,100,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+KC1,2020,NO2,21,99,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KC1,2020,PM25,8,100,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KC7,2020,PM10,13,100,Kensington and Chelsea - North Ken FDMS,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KF1,2020,PM25,8,100,Kensington and Chelsea - North Ken FIDAS,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KF1,2020,PM10,13,100,Kensington and Chelsea - North Ken FIDAS,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KT4,2020,PM10,22,85,Kingston Upon Thames - Tolworth Broadway,Roadside,Kingston,51.379312,-0.281259
+KT5,2020,NO2,45,93,Kingston Upon Thames - Cromwell Road,Roadside,Kingston,51.412308,-0.29658478
+KT5,2020,PM10,24,99,Kingston Upon Thames - Cromwell Road,Roadside,Kingston,51.412308,-0.29658478
+KT6,2020,NO2,25,100,Kingston Upon Thames - Kingston Vale,Roadside,Kingston,51.4355006647773,-0.257029893767993
+KT6,2020,PM10,18,97,Kingston Upon Thames - Kingston Vale,Roadside,Kingston,51.4355006647773,-0.257029893767993
+LB4,2020,NO2,60,97,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB4,2020,PM10,24,100,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB5,2020,NO2,36,98,Lambeth - Bondway Interchange,Industrial,Lambeth,51.4854867739729,-0.124545234819213
+LB5,2020,PM10,46,98,Lambeth - Bondway Interchange,Industrial,Lambeth,51.4854867739729,-0.124545234819213
+LB6,2020,NO2,26,100,Lambeth - Streatham Green,Urban Background,Lambeth,51.4282131429499,-0.13186863879576
+LB6,2020,PM10,18,99,Lambeth - Streatham Green,Urban Background,Lambeth,51.4282131429499,-0.13186863879576
+LH0,2020,NO2,20,99,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LH0,2020,PM25,8,99,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LH0,2020,PM10,14,99,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LW1,2020,NO2,28,77,Lewisham - Catford,Urban Background,Lewisham,51.445468,-0.020266
+LW2,2020,NO2,29,99,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW2,2020,PM25,13,99,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW2,2020,PM10,18,76,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW4,2020,NO2,36,98,Lewisham - Loampit Vale,Roadside,Lewisham,51.4646910611736,-0.0160682432041527
+LW4,2020,PM10,19,98,Lewisham - Loampit Vale,Roadside,Lewisham,51.4646910611736,-0.0160682432041527
+LW5,2020,NO2,19,97,Lewisham - Deptford,Urban Background,Lewisham,51.4795312838203,-0.0252606031340197
+ME2,2020,PM10,26,90,Merton - Merton Road,Roadside,Merton,51.4161384794862,-0.192230805042824
+MY1,2020,NO2,44,97,Westminster - Marylebone Road,Kerbside,Westminster,51.52254,-0.15459
+MY7,2020,PM25,9,79,Westminster - Marylebone Road FDMS,Kerbside,Westminster,51.52254,-0.15459
+MY7,2020,PM10,16,75,Westminster - Marylebone Road FDMS,Kerbside,Westminster,51.52254,-0.15459
+NB1,2020,NO2,44,98,Westminster - Strand (Northbank BID),Roadside,Westminster,51.5119701188277,-0.116713103528546
+NM2,2020,NO2,24,81,Newham - Cam Road,Roadside,Newham,51.537598,-0.002138
+NM2,2020,PM10,18,94,Newham - Cam Road,Roadside,Newham,51.537598,-0.002138
+NM3,2020,NO2,20,95,Newham - Wren Close,Urban Background,Newham,51.514727,0.014554
+NM3,2020,PM10,20,97,Newham - Wren Close,Urban Background,Newham,51.514727,0.014554
+RB4,2020,NO2,27,100,Redbridge - Gardner Close,Roadside,Redbridge,51.57661,0.030858
+RB4,2020,PM10,17,89,Redbridge - Gardner Close,Roadside,Redbridge,51.57661,0.030858
+RB7,2020,NO2,21,96,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RB7,2020,PM25,11,87,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RB7,2020,PM10,15,83,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RI1,2020,NO2,20,100,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI1,2020,PM10,15,100,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI2,2020,NO2,15,83,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+RI2,2020,PM10,14,95,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+SK5,2020,PM10,22,75,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK6,2020,NO2,21,87,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK6,2020,PM10,16,100,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK8,2020,NO2,30,96,Southwark - Tower Bridge Road,Roadside,Southwark,51.5013906712066,-0.0782034373606952
+ST4,2020,NO2,41,93,Sutton - Wallington,Kerbside,Sutton,51.3586596124998,-0.149723946604927
+ST4,2020,PM10,19,88,Sutton - Wallington,Kerbside,Sutton,51.3586596124998,-0.149723946604927
+ST5,2020,NO2,23,100,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST5,2020,PM25,9,99,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST5,2020,PM10,21,96,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST6,2020,NO2,39,91,Sutton - Worcester Park,Kerbside,Sutton,51.377923,-0.240414
+TD5,2020,PM25,8,87,London Teddington Bushy Park ,Suburban,Richmond,51.4252560360937,-0.345608290872898
+TD5,2020,PM10,13,87,London Teddington Bushy Park ,Suburban,Richmond,51.4252560360937,-0.345608290872898
+TH2,2020,NO2,25,100,Tower Hamlets - Mile End Road,Roadside,Tower Hamlets,51.5225462561171,-0.0420823040635312
+TH4,2020,NO2,39,99,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TH4,2020,PM25,9,93,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TH4,2020,PM10,17,96,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+WA2,2020,NO2,30,99,Wandsworth - Wandsworth Town Hall,Urban Background,Wandsworth,51.456962,-0.191074
+WA7,2020,NO2,58,97,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA7,2020,PM10,19,94,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA8,2020,NO2,53,87,Wandsworth - Putney High Street Facade,Roadside,Wandsworth,51.4637206047191,-0.215890144123119
+WA9,2020,NO2,26,94,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WA9,2020,PM10,16,98,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WAA,2020,NO2,27,97,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAA,2020,PM10,25,100,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAB,2020,PM10,21,92,Wandsworth - Tooting High Street,Roadside,Wandsworth,51.429331,-0.166524
+WAC,2020,NO2,31,97,Lavender Hill,Roadside,Wandsworth,51.4636903568111,-0.166713485994806
+WAC,2020,PM10,19,91,Lavender Hill,Roadside,Wandsworth,51.4636903568111,-0.166713485994806
+WM0,2020,NO2,26,100,Westminster - Horseferry Road,Urban Background,Westminster,51.494681,-0.131938
+WM0,2020,PM25,11,86,Westminster - Horseferry Road,Urban Background,Westminster,51.494681,-0.131938
+WM0,2020,PM10,15,98,Westminster - Horseferry Road,Urban Background,Westminster,51.494681,-0.131938
+WM5,2020,NO2,24,95,Westminster - Covent Garden,Urban Background,Westminster,51.5119769825798,-0.12162720332856
+WM6,2020,NO2,34,98,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+WM6,2020,PM10,22,77,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+WMB,2020,NO2,35,98,Westminster - Oxford Street East,Roadside,Westminster,51.516066,-0.13516388
+WMB,2020,PM10,22,99,Westminster - Oxford Street East,Roadside,Westminster,51.516066,-0.13516388
+WMC,2020,NO2,32,92,Westminster - Cavendish Square,Roadside,Westminster,51.5168016452062,-0.145657269364411
+WMC,2020,PM10,17,90,Westminster - Cavendish Square,Roadside,Westminster,51.5168016452062,-0.145657269364411
+BG1,2021,NO2,17,90,Barking and Dagenham - Rush Green,Suburban,Barking and Dagenham,51.563752,0.177891
+BG2,2021,NO2,20,94,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BG2,2021,PM10,18,99,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BL0,2021,NO2,27,98,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BL0,2021,PM10,16,96,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BQ7,2021,NO2,17,100,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ7,2021,PM10,17,99,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ8,2021,PM10,14,96,Bexley - Belvedere West FDMS,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ9,2021,PM25,9,100,Bexley - Slade Green Fidas,Suburban,Bexley,51.4659832746662,0.184877126994369
+BQ9,2021,PM10,14,100,Bexley - Slade Green Fidas,Suburban,Bexley,51.4659832746662,0.184877126994369
+BT4,2021,NO2,46,98,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT4,2021,PM25,13,97,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT4,2021,PM10,26,98,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT5,2021,NO2,30,99,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT5,2021,PM10,21,100,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT6,2021,NO2,29,100,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT6,2021,PM10,18,97,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT8,2021,NO2,31,100,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BT8,2021,PM10,18,99,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BX0,2021,PM10,16,89,Bexley - Belvedere FDMS,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX1,2021,NO2,19,96,Bexley - Slade Green,Suburban,Bexley,51.4659832746662,0.184877126994369
+BX2,2021,NO2,16,100,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX2,2021,PM10,18,99,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX9,2021,PM25,9,100,Bexley - Slade Green FDMS,Suburban,Bexley,51.4659832746662,0.184877126994369
+BY7,2021,NO2,22,97,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+BY7,2021,PM25,10,89,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+BY7,2021,PM10,15,97,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+CE1,2021,NO2,36,80,Regent Street facade (The Crown Estate),Roadside,Westminster,51.5111824979787,-0.139114122784456
+CE2,2021,NO2,36,95,Waterloo Place (The Crown Estate),Roadside,Westminster,51.5075819137762,-0.133068372704093
+CE2,2021,PM25,9,98,Waterloo Place (The Crown Estate),Roadside,Westminster,51.5075819137762,-0.133068372704093
+CE2,2021,PM10,15,98,Waterloo Place (The Crown Estate),Roadside,Westminster,51.5075819137762,-0.133068372704093
+CR5,2021,NO2,39,99,Croydon - Norbury,Kerbside,Croydon,51.411349,-0.12311
+CR7,2021,NO2,26,99,Croydon - Purley Way A23,Roadside,Croydon,51.3622305655403,-0.117604507351392
+CR8,2021,PM25,9,87,Croydon - Norbury Manor,Urban Background,Croydon,51.4100146321438,-0.127520139142022
+CT3,2021,NO2,23,97,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT3,2021,PM25,11,90,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT3,2021,PM10,16,96,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT4,2021,NO2,31,85,City of London - Beech Street,Roadside,City of London,51.520225273171,-0.0961060474176381
+CT4,2021,PM10,15,97,City of London - Beech Street,Roadside,City of London,51.520225273171,-0.0961060474176381
+CT6,2021,NO2,46,96,City of London - Walbrook Wharf,Roadside,City of London,51.510499,-0.091634
+EA6,2021,NO2,49,100,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA6,2021,PM10,20,100,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA8,2021,NO2,32,100,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EA8,2021,PM10,26,90,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EI1,2021,NO2,36,100,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI1,2021,PM10,25,98,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI8,2021,PM10,23,98,Ealing - Horn Lane TEOM,Industrial,Ealing,51.5189160348806,-0.265652052386222
+EN1,2021,NO2,18,100,Enfield - Bush Hill Park,Suburban,Enfield,51.6450367266602,-0.0661800662229116
+EN4,2021,NO2,24,100,Enfield - Derby Road,Roadside,Enfield,51.614864007,-0.0507658363689
+EN5,2021,NO2,30,99,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN5,2021,PM10,15,88,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN7,2021,NO2,18,92,Enfield - Prince of Wales School,Urban Background,Enfield,51.66864334727,-0.02200720557
+GB0,2021,PM25,13,91,Greenwich - Falconwood FDMS,Roadside,Bexley,51.4563,0.085606
+GB6,2021,NO2,27,97,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GB6,2021,PM10,19,100,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GN0,2021,NO2,27,100,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2021,PM25,11,94,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2021,PM10,13,89,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN3,2021,NO2,25,100,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN4,2021,NO2,31,100,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GN4,2021,PM10,21,96,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GN5,2021,NO2,33,95,Greenwich - Trafalgar Road (Hoskins St),Roadside,Greenwich,51.4839072533485,0.000407396935849736
+GN5,2021,PM10,19,97,Greenwich - Trafalgar Road (Hoskins St),Roadside,Greenwich,51.4839072533485,0.000407396935849736
+GN6,2021,NO2,25,97,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GN6,2021,PM25,11,77,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GN6,2021,PM10,20,99,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GR4,2021,NO2,15,90,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR4,2021,PM25,8,90,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR4,2021,PM10,12,75,Greenwich - Eltham,Suburban,Greenwich,51.45258,0.070766
+GR7,2021,NO2,30,100,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR7,2021,PM10,19,96,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR8,2021,NO2,40,100,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR8,2021,PM10,20,90,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR9,2021,NO2,26,94,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2021,PM25,7,87,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2021,PM10,17,94,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GV2,2021,NO2,30,97,Westminster - Duke Street (Grosvenor),Roadside,Westminster,51.5129998832095,-0.150913488159214
+HG1,2021,NO2,32,96,Haringey - Haringey Town Hall,Roadside,Haringey,51.599302,-0.068218
+HG4,2021,NO2,18,91,Haringey  - Priory Park South,Urban Background,Haringey,51.5839769007709,-0.125400278484885
+HI0,2021,NO2,25,100,Hillingdon - Keats Way,Suburban,Hillingdon,51.496309,-0.460826
+HK6,2021,NO2,33,100,Hackney - Old Street,Roadside,Hackney,51.526454,-0.08491
+HK6,2021,PM10,19,99,Hackney - Old Street,Roadside,Hackney,51.526454,-0.08491
+HP1,2021,NO2,16,90,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HP1,2021,PM25,9,97,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HP1,2021,PM10,14,97,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HR1,2021,NO2,16,100,Harrow - Stanmore,Urban Background,Harrow,51.617327,-0.298775
+HR1,2021,PM10,15,88,Harrow - Stanmore,Urban Background,Harrow,51.617327,-0.298775
+HR2,2021,PM10,18,80,Harrow - Pinner Road,Roadside,Harrow,51.588417,-0.362989
+HV1,2021,NO2,23,99,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV3,2021,NO2,28,99,Havering - Romford,Roadside,Havering,51.572976,0.179079
+IM1,2021,NO2,36,99,Camden - Holborn (Bee Midtown),Kerbside,Camden,51.5173675146177,-0.1201947113171
+IS2,2021,NO2,29,100,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS2,2021,PM10,19,93,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS6,2021,NO2,20,86,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+IS6,2021,PM10,19,85,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+KC1,2021,NO2,20,99,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KC1,2021,PM25,9,100,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KC7,2021,PM10,14,100,Kensington and Chelsea - North Ken FDMS,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KF1,2021,PM25,9,98,Kensington and Chelsea - North Ken FIDAS,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KF1,2021,PM10,14,98,Kensington and Chelsea - North Ken FIDAS,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KT4,2021,NO2,31,98,Kingston Upon Thames - Tolworth Broadway,Roadside,Kingston,51.379312,-0.281259
+KT5,2021,NO2,51,96,Kingston Upon Thames - Cromwell Road,Roadside,Kingston,51.412308,-0.29658478
+KT5,2021,PM10,28,98,Kingston Upon Thames - Cromwell Road,Roadside,Kingston,51.412308,-0.29658478
+KT6,2021,NO2,26,100,Kingston Upon Thames - Kingston Vale,Roadside,Kingston,51.4355006647773,-0.257029893767993
+KT6,2021,PM10,18,98,Kingston Upon Thames - Kingston Vale,Roadside,Kingston,51.4355006647773,-0.257029893767993
+LB4,2021,NO2,62,100,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB4,2021,PM10,25,100,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB5,2021,NO2,36,95,Lambeth - Bondway Interchange,Industrial,Lambeth,51.4854867739729,-0.124545234819213
+LB5,2021,PM10,46,98,Lambeth - Bondway Interchange,Industrial,Lambeth,51.4854867739729,-0.124545234819213
+LB6,2021,PM10,17,99,Lambeth - Streatham Green,Urban Background,Lambeth,51.4282131429499,-0.13186863879576
+LH0,2021,NO2,20,99,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LH0,2021,PM25,8,99,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LH0,2021,PM10,13,99,Hillingdon - Harlington,Urban Background,Hillingdon,51.48878,-0.441627
+LW1,2021,NO2,25,82,Lewisham - Catford,Urban Background,Lewisham,51.445468,-0.020266
+LW4,2021,NO2,35,99,Lewisham - Loampit Vale,Roadside,Lewisham,51.4646910611736,-0.0160682432041527
+LW4,2021,PM10,19,96,Lewisham - Loampit Vale,Roadside,Lewisham,51.4646910611736,-0.0160682432041527
+LW5,2021,NO2,20,99,Lewisham - Deptford,Urban Background,Lewisham,51.4795312838203,-0.0252606031340197
+MY1,2021,NO2,43,94,Westminster - Marylebone Road,Kerbside,Westminster,51.52254,-0.15459
+MY7,2021,PM25,11,86,Westminster - Marylebone Road FDMS,Kerbside,Westminster,51.52254,-0.15459
+MY7,2021,PM10,16,76,Westminster - Marylebone Road FDMS,Kerbside,Westminster,51.52254,-0.15459
+NB1,2021,NO2,43,99,Westminster - Strand (Northbank BID),Roadside,Westminster,51.5119701188277,-0.116713103528546
+NM2,2021,NO2,23,91,Newham - Cam Road,Roadside,Newham,51.537598,-0.002138
+NM2,2021,PM10,17,93,Newham - Cam Road,Roadside,Newham,51.537598,-0.002138
+NM3,2021,NO2,21,96,Newham - Wren Close,Urban Background,Newham,51.514727,0.014554
+NM3,2021,PM10,18,95,Newham - Wren Close,Urban Background,Newham,51.514727,0.014554
+RB4,2021,NO2,26,99,Redbridge - Gardner Close,Roadside,Redbridge,51.57661,0.030858
+RB7,2021,NO2,25,98,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RB7,2021,PM25,10,77,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RI1,2021,NO2,21,98,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI1,2021,PM10,16,99,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI2,2021,NO2,14,85,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+RI2,2021,PM10,15,94,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+SK5,2021,NO2,29,97,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK5,2021,PM10,21,96,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK6,2021,NO2,23,88,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK6,2021,PM25,9,98,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK6,2021,PM10,14,98,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK8,2021,PM25,10,93,Southwark - Tower Bridge Road,Roadside,Southwark,51.5013906712066,-0.0782034373606952
+SK8,2021,PM10,18,93,Southwark - Tower Bridge Road,Roadside,Southwark,51.5013906712066,-0.0782034373606952
+SK9,2021,PM25,9,100,Southwark - A2 Old Kent Road FIDAS,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK9,2021,PM10,17,100,Southwark - A2 Old Kent Road FIDAS,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SKA,2021,NO2,28,93,Southwark - Lower Road,Roadside,Southwark,51.4965604167321,-0.0530504472531612
+SKA,2021,PM25,9,79,Southwark - Lower Road,Roadside,Southwark,51.4965604167321,-0.0530504472531612
+SKA,2021,PM10,15,79,Southwark - Lower Road,Roadside,Southwark,51.4965604167321,-0.0530504472531612
+SKB,2021,NO2,40,85,Southwark - Vicarage Grove,Roadside,Southwark,51.4735803479615,-0.0877818536754426
+SKB,2021,PM25,10,81,Southwark - Vicarage Grove,Roadside,Southwark,51.4735803479615,-0.0877818536754426
+SKB,2021,PM10,16,81,Southwark - Vicarage Grove,Roadside,Southwark,51.4735803479615,-0.0877818536754426
+ST4,2021,NO2,43,99,Sutton - Wallington,Kerbside,Sutton,51.3586596124998,-0.149723946604927
+ST4,2021,PM10,18,99,Sutton - Wallington,Kerbside,Sutton,51.3586596124998,-0.149723946604927
+ST5,2021,NO2,22,99,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST5,2021,PM25,10,98,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST5,2021,PM10,18,99,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST6,2021,NO2,43,95,Sutton - Worcester Park,Kerbside,Sutton,51.377923,-0.240414
+ST9,2021,NO2,24,89,Sutton - Beddington Village,Roadside,Sutton,51.3712010773161,-0.131948824988095
+ST9,2021,PM10,17,81,Sutton - Beddington Village,Roadside,Sutton,51.3712010773161,-0.131948824988095
+TD5,2021,PM25,8,99,London Teddington Bushy Park ,Suburban,Richmond,51.4252560360937,-0.345608290872898
+TD5,2021,PM10,12,99,London Teddington Bushy Park ,Suburban,Richmond,51.4252560360937,-0.345608290872898
+TH2,2021,NO2,22,99,Tower Hamlets - Mile End Road,Roadside,Tower Hamlets,51.5225462561171,-0.0420823040635312
+TH4,2021,NO2,37,99,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TL4,2021,NO2,34,95,Greenwich - Tunnel Avenue,Roadside,Greenwich,51.495057,0.0041074676
+TL5,2021,NO2,22,81,Newham - Hoola Tower,Roadside,Newham,51.508198,0.015002152
+TL6,2021,NO2,26,96,Newham - Britannia Gate,Roadside,Newham,51.503858,0.020574415
+WA2,2021,NO2,29,82,Wandsworth - Wandsworth Town Hall,Urban Background,Wandsworth,51.456962,-0.191074
+WA7,2021,NO2,62,94,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA7,2021,PM10,20,83,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA8,2021,NO2,57,89,Wandsworth - Putney High Street Facade,Roadside,Wandsworth,51.4637206047191,-0.215890144123119
+WA9,2021,NO2,27,91,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WA9,2021,PM10,16,96,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WAA,2021,NO2,28,89,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAA,2021,PM10,23,97,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAB,2021,PM10,23,87,Wandsworth - Tooting High Street,Roadside,Wandsworth,51.429331,-0.166524
+WAC,2021,NO2,35,95,Lavender Hill,Roadside,Wandsworth,51.4636903568111,-0.166713485994806
+WAC,2021,PM10,19,96,Lavender Hill,Roadside,Wandsworth,51.4636903568111,-0.166713485994806
+WM0,2021,NO2,24,97,Westminster - Horseferry Road,Urban Background,Westminster,51.494681,-0.131938
+WM0,2021,PM25,10,96,Westminster - Horseferry Road,Urban Background,Westminster,51.494681,-0.131938
+WM5,2021,NO2,24,99,Westminster - Covent Garden,Urban Background,Westminster,51.5119769825798,-0.12162720332856
+WM6,2021,NO2,34,92,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+WM6,2021,PM10,20,94,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+WMB,2021,NO2,37,99,Westminster - Oxford Street East,Roadside,Westminster,51.516066,-0.13516388
+WMB,2021,PM10,22,99,Westminster - Oxford Street East,Roadside,Westminster,51.516066,-0.13516388
+WMC,2021,NO2,32,98,Westminster - Cavendish Square,Roadside,Westminster,51.5168016452062,-0.145657269364411
+WMC,2021,PM10,22,99,Westminster - Cavendish Square,Roadside,Westminster,51.5168016452062,-0.145657269364411
+WMD,2021,NO2,30,99,Westminster - Elizabeth Bridge,Roadside,Westminster,51.4922482333024,-0.147114752900186
+WMD,2021,PM25,10,99,Westminster - Elizabeth Bridge,Roadside,Westminster,51.4922482333024,-0.147114752900186
+BG1,2022,NO2,17,92,Barking and Dagenham - Rush Green,Suburban,Barking and Dagenham,51.563752,0.177891
+BG2,2022,NO2,21,100,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BG2,2022,PM10,18,98,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BL0,2022,NO2,26,87,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BL0,2022,PM10,17,96,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BQ7,2022,NO2,16,93,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ7,2022,PM10,13,78,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ9,2022,PM25,9,100,Bexley - Slade Green Fidas,Suburban,Bexley,51.4659832746662,0.184877126994369
+BQ9,2022,PM10,15,100,Bexley - Slade Green Fidas,Suburban,Bexley,51.4659832746662,0.184877126994369
+BT4,2022,NO2,43,99,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT4,2022,PM25,13,99,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT4,2022,PM10,28,95,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT5,2022,NO2,28,100,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT5,2022,PM10,19,100,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT6,2022,NO2,28,100,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT6,2022,PM10,17,97,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT8,2022,NO2,29,100,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BT8,2022,PM10,17,89,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BX1,2022,NO2,18,96,Bexley - Slade Green,Suburban,Bexley,51.4659832746662,0.184877126994369
+BX2,2022,NO2,16,100,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BY7,2022,NO2,20,99,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+BY7,2022,PM25,11,97,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+BY7,2022,PM10,15,97,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+CE1,2022,NO2,39,98,Regent Street facade (The Crown Estate),Roadside,Westminster,51.5111824979787,-0.139114122784456
+CE2,2022,NO2,38,99,Waterloo Place (The Crown Estate),Roadside,Westminster,51.5075819137762,-0.133068372704093
+CE2,2022,PM25,10,91,Waterloo Place (The Crown Estate),Roadside,Westminster,51.5075819137762,-0.133068372704093
+CE2,2022,PM10,19,91,Waterloo Place (The Crown Estate),Roadside,Westminster,51.5075819137762,-0.133068372704093
+CR5,2022,NO2,37,100,Croydon - Norbury,Kerbside,Croydon,51.411349,-0.12311
+CT2,2022,PM25,12,91,City of London - Farringdon Street,Kerbside,City of London,51.5145253362314,-0.104515626337876
+CT3,2022,NO2,23,99,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT3,2022,PM10,17,81,City of London - The Aldgate School,Urban Background,City of London,51.513847178423,-0.077765681752
+CT4,2022,NO2,41,98,City of London - Beech Street,Roadside,City of London,51.520225273171,-0.0961060474176381
+CT4,2022,PM10,17,92,City of London - Beech Street,Roadside,City of London,51.520225273171,-0.0961060474176381
+CT6,2022,NO2,52,97,City of London - Walbrook Wharf,Roadside,City of London,51.510499,-0.091634
+CW3,2022,NO2,20,86,Tower Hamlets - Jubilee Park,Urban Background,Hackney,51.5029878731458,-0.0180219908165375
+EA6,2022,NO2,52,99,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA6,2022,PM10,18,93,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA8,2022,NO2,29,99,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EI1,2022,NO2,35,99,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI1,2022,PM10,25,99,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI8,2022,PM10,26,98,Ealing - Horn Lane TEOM,Industrial,Ealing,51.5189160348806,-0.265652052386222
+EN1,2022,NO2,19,100,Enfield - Bush Hill Park,Suburban,Enfield,51.6450367266602,-0.0661800662229116
+EN4,2022,NO2,26,96,Enfield - Derby Road,Roadside,Enfield,51.614864007,-0.0507658363689
+EN5,2022,NO2,28,100,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN5,2022,PM10,18,85,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN7,2022,NO2,18,100,Enfield - Prince of Wales School,Urban Background,Enfield,51.66864334727,-0.02200720557
+GB6,2022,NO2,22,100,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GB6,2022,PM10,17,100,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GN0,2022,NO2,26,100,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2022,PM25,12,95,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN3,2022,NO2,25,100,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN4,2022,NO2,27,100,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GN4,2022,PM10,16,94,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GN5,2022,NO2,32,91,Greenwich - Trafalgar Road (Hoskins St),Roadside,Greenwich,51.4839072533485,0.000407396935849736
+GN6,2022,NO2,23,91,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GN6,2022,PM25,10,85,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GN6,2022,PM10,19,99,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GR7,2022,NO2,27,94,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR7,2022,PM10,17,95,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR8,2022,NO2,40,98,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR8,2022,PM10,18,99,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR9,2022,PM10,18,98,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GV1,2022,NO2,25,91,Westminster - Ebury Street (Grosvenor),Roadside,Westminster,51.493492,-0.149906
+GV2,2022,NO2,32,95,Westminster - Duke Street (Grosvenor),Roadside,Westminster,51.5129998832095,-0.150913488159214
+HG1,2022,NO2,30,94,Haringey - Haringey Town Hall,Roadside,Haringey,51.599302,-0.068218
+HG4,2022,NO2,17,93,Haringey  - Priory Park South,Urban Background,Haringey,51.5839769007709,-0.125400278484885
+HI0,2022,NO2,27,100,Hillingdon - Keats Way,Suburban,Hillingdon,51.496309,-0.460826
+HK6,2022,NO2,31,94,Hackney - Old Street,Roadside,Hackney,51.526454,-0.08491
+HK6,2022,PM10,18,84,Hackney - Old Street,Roadside,Hackney,51.526454,-0.08491
+HP1,2022,NO2,17,99,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HP1,2022,PM25,8,99,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HP1,2022,PM10,13,99,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HR1,2022,PM10,14,78,Harrow - Stanmore,Urban Background,Harrow,51.617327,-0.298775
+HV1,2022,NO2,23,99,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV1,2022,PM25,10,93,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV1,2022,PM10,17,93,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV3,2022,NO2,30,99,Havering - Romford,Roadside,Havering,51.572976,0.179079
+HV3,2022,PM10,18,88,Havering - Romford,Roadside,Havering,51.572976,0.179079
+IS2,2022,NO2,28,100,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS2,2022,PM10,18,99,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS6,2022,NO2,20,100,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+IS6,2022,PM10,17,97,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+KC1,2022,NO2,15,86,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KC1,2022,PM25,9,89,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KT5,2022,NO2,43,100,Kingston Upon Thames - Cromwell Road,Roadside,Kingston,51.412308,-0.29658478
+KT5,2022,PM10,30,98,Kingston Upon Thames - Cromwell Road,Roadside,Kingston,51.412308,-0.29658478
+KT6,2022,NO2,25,97,Kingston Upon Thames - Kingston Vale,Roadside,Kingston,51.4355006647773,-0.257029893767993
+KT6,2022,PM10,17,77,Kingston Upon Thames - Kingston Vale,Roadside,Kingston,51.4355006647773,-0.257029893767993
+LB4,2022,NO2,65,98,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB4,2022,PM25,11,80,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB4,2022,PM10,21,87,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB5,2022,NO2,29,99,Lambeth - Bondway Interchange,Industrial,Lambeth,51.4854867739729,-0.124545234819213
+LB5,2022,PM10,37,96,Lambeth - Bondway Interchange,Industrial,Lambeth,51.4854867739729,-0.124545234819213
+LB6,2022,NO2,23,99,Lambeth - Streatham Green,Urban Background,Lambeth,51.4282131429499,-0.13186863879576
+LB6,2022,PM10,17,99,Lambeth - Streatham Green,Urban Background,Lambeth,51.4282131429499,-0.13186863879576
+LW2,2022,NO2,27,78,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW4,2022,NO2,38,98,Lewisham - Loampit Vale,Roadside,Lewisham,51.4646910611736,-0.0160682432041527
+LW4,2022,PM10,20,98,Lewisham - Loampit Vale,Roadside,Lewisham,51.4646910611736,-0.0160682432041527
+LW5,2022,NO2,19,99,Lewisham - Deptford,Urban Background,Lewisham,51.4795312838203,-0.0252606031340197
+LW5,2022,PM25,10,98,Lewisham - Deptford,Urban Background,Lewisham,51.4795312838203,-0.0252606031340197
+LW6,2022,NO2,25,94,Lewisham - Laurence House Catford,Roadside,Lewisham,51.4447808,-0.0221832
+MR8,2022,PM25,11,83,Marylebone Road - BAM,Kerbside,Westminster,51.5225093597419,-0.154622154656843
+MR8,2022,PM10,22,82,Marylebone Road - BAM,Kerbside,Westminster,51.5225093597419,-0.154622154656843
+MY1,2022,NO2,42,99,Westminster - Marylebone Road,Kerbside,Westminster,51.52254,-0.15459
+NB1,2022,NO2,35,79,Westminster - Strand (Northbank BID),Roadside,Westminster,51.5119701188277,-0.116713103528546
+NM2,2022,NO2,24,98,Newham - Cam Road,Roadside,Newham,51.537598,-0.002138
+NM2,2022,PM25,10,99,Newham - Cam Road,Roadside,Newham,51.537598,-0.002138
+NM2,2022,PM10,16,94,Newham - Cam Road,Roadside,Newham,51.537598,-0.002138
+NM3,2022,NO2,22,98,Newham - Wren Close,Urban Background,Newham,51.514727,0.014554
+NM3,2022,PM25,11,97,Newham - Wren Close,Urban Background,Newham,51.514727,0.014554
+NM3,2022,PM10,18,97,Newham - Wren Close,Urban Background,Newham,51.514727,0.014554
+RB4,2022,NO2,26,100,Redbridge - Gardner Close,Roadside,Redbridge,51.57661,0.030858
+RB7,2022,PM25,9,85,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RB7,2022,PM10,15,84,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RI1,2022,NO2,23,80,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI1,2022,PM10,15,90,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI2,2022,PM10,14,98,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+SK5,2022,NO2,26,92,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK5,2022,PM10,21,88,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK6,2022,NO2,22,93,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK6,2022,PM25,9,94,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK6,2022,PM10,16,94,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK8,2022,NO2,30,99,Southwark - Tower Bridge Road,Roadside,Southwark,51.5013906712066,-0.0782034373606952
+SK8,2022,PM25,9,100,Southwark - Tower Bridge Road,Roadside,Southwark,51.5013906712066,-0.0782034373606952
+SK8,2022,PM10,16,100,Southwark - Tower Bridge Road,Roadside,Southwark,51.5013906712066,-0.0782034373606952
+SK9,2022,PM25,10,98,Southwark - A2 Old Kent Road FIDAS,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK9,2022,PM10,18,98,Southwark - A2 Old Kent Road FIDAS,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SKA,2022,PM25,10,99,Southwark - Lower Road,Roadside,Southwark,51.4965604167321,-0.0530504472531612
+SKA,2022,PM10,17,99,Southwark - Lower Road,Roadside,Southwark,51.4965604167321,-0.0530504472531612
+SKB,2022,NO2,32,92,Southwark - Vicarage Grove,Roadside,Southwark,51.4735803479615,-0.0877818536754426
+SKB,2022,PM25,10,100,Southwark - Vicarage Grove,Roadside,Southwark,51.4735803479615,-0.0877818536754426
+SKB,2022,PM10,17,100,Southwark - Vicarage Grove,Roadside,Southwark,51.4735803479615,-0.0877818536754426
+SKC,2022,NO2,26,94,Southwark - South Circular Road,Roadside,Southwark,51.442633,-0.077653974
+SKC,2022,PM25,8,83,Southwark - South Circular Road,Roadside,Southwark,51.442633,-0.077653974
+SKC,2022,PM10,15,93,Southwark - South Circular Road,Roadside,Southwark,51.442633,-0.077653974
+ST4,2022,NO2,44,90,Sutton - Wallington,Kerbside,Sutton,51.3586596124998,-0.149723946604927
+ST4,2022,PM10,20,98,Sutton - Wallington,Kerbside,Sutton,51.3586596124998,-0.149723946604927
+ST5,2022,NO2,24,99,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST5,2022,PM25,10,97,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST5,2022,PM10,20,95,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST6,2022,NO2,40,96,Sutton - Worcester Park,Kerbside,Sutton,51.377923,-0.240414
+ST6,2022,PM10,18,99,Sutton - Worcester Park,Kerbside,Sutton,51.377923,-0.240414
+ST9,2022,NO2,23,99,Sutton - Beddington Village,Roadside,Sutton,51.3712010773161,-0.131948824988095
+ST9,2022,PM10,19,96,Sutton - Beddington Village,Roadside,Sutton,51.3712010773161,-0.131948824988095
+TD5,2022,PM25,9,98,London Teddington Bushy Park ,Suburban,Richmond,51.4252560360937,-0.345608290872898
+TD5,2022,PM10,14,97,London Teddington Bushy Park ,Suburban,Richmond,51.4252560360937,-0.345608290872898
+TH2,2022,NO2,22,96,Tower Hamlets - Mile End Road,Roadside,Tower Hamlets,51.5225462561171,-0.0420823040635312
+TL4,2022,NO2,32,100,Greenwich - Tunnel Avenue,Roadside,Greenwich,51.495057,0.0041074676
+TL5,2022,NO2,23,100,Newham - Hoola Tower,Roadside,Newham,51.508198,0.015002152
+TL6,2022,NO2,25,99,Newham - Britannia Gate,Roadside,Newham,51.503858,0.020574415
+TL6,2022,PM25,12,87,Newham - Britannia Gate,Roadside,Newham,51.503858,0.020574415
+WA2,2022,NO2,28,93,Wandsworth - Wandsworth Town Hall,Urban Background,Wandsworth,51.456962,-0.191074
+WA7,2022,PM10,20,92,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA9,2022,PM10,15,92,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WAA,2022,NO2,27,75,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAA,2022,PM10,20,98,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAC,2022,PM10,20,90,Lavender Hill,Roadside,Wandsworth,51.4636903568111,-0.166713485994806
+WM0,2022,NO2,23,88,Westminster - Horseferry Road,Urban Background,Westminster,51.494681,-0.131938
+WM0,2022,PM25,8,91,Westminster - Horseferry Road,Urban Background,Westminster,51.494681,-0.131938
+WM5,2022,NO2,23,99,Westminster - Covent Garden,Urban Background,Westminster,51.5119769825798,-0.12162720332856
+WM6,2022,NO2,37,100,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+WM6,2022,PM10,22,99,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+WMB,2022,NO2,42,100,Westminster - Oxford Street East,Roadside,Westminster,51.516066,-0.13516388
+WMB,2022,PM10,23,98,Westminster - Oxford Street East,Roadside,Westminster,51.516066,-0.13516388
+WMC,2022,NO2,33,100,Westminster - Cavendish Square,Roadside,Westminster,51.5168016452062,-0.145657269364411
+WMC,2022,PM10,24,80,Westminster - Cavendish Square,Roadside,Westminster,51.5168016452062,-0.145657269364411
+WMD,2022,NO2,34,99,Westminster - Elizabeth Bridge,Roadside,Westminster,51.4922482333024,-0.147114752900186
+WMD,2022,PM25,10,96,Westminster - Elizabeth Bridge,Roadside,Westminster,51.4922482333024,-0.147114752900186
+BG1,2023,NO2,16,87,Barking and Dagenham - Rush Green,Suburban,Barking and Dagenham,51.563752,0.177891
+BG2,2023,NO2,18,97,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BG2,2023,PM10,17,96,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BQ7,2023,NO2,14,95,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ7,2023,PM25,7,99,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ7,2023,PM10,11,99,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ9,2023,PM25,8,95,Bexley - Slade Green Fidas,Suburban,Bexley,51.4659832746662,0.184877126994369
+BQ9,2023,PM10,14,98,Bexley - Slade Green Fidas,Suburban,Bexley,51.4659832746662,0.184877126994369
+BT4,2023,NO2,39,83,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT4,2023,PM25,11,99,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT4,2023,PM10,26,98,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT5,2023,NO2,25,100,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT5,2023,PM10,17,97,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT6,2023,NO2,25,100,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT6,2023,PM10,16,98,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT8,2023,NO2,23,97,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BT8,2023,PM10,15,99,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BX1,2023,NO2,16,96,Bexley - Slade Green,Suburban,Bexley,51.4659832746662,0.184877126994369
+BX2,2023,NO2,15,99,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX2,2023,PM25,8,99,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX2,2023,PM10,13,99,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BY7,2023,NO2,19,94,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+BY7,2023,PM25,10,92,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+BY7,2023,PM10,13,91,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+CE2,2023,NO2,36,95,Waterloo Place (The Crown Estate),Roadside,Westminster,51.5075819137762,-0.133068372704093
+CE2,2023,PM25,9,89,Waterloo Place (The Crown Estate),Roadside,Westminster,51.5075819137762,-0.133068372704093
+CE2,2023,PM10,17,95,Waterloo Place (The Crown Estate),Roadside,Westminster,51.5075819137762,-0.133068372704093
+CE3,2023,NO2,39,81,Regent Street (The Crown Estate),Roadside,Westminster,51.5113771448991,-0.139249367757023
+CE3,2023,PM25,10,95,Regent Street (The Crown Estate),Roadside,Westminster,51.5113771448991,-0.139249367757023
+CE3,2023,PM10,17,95,Regent Street (The Crown Estate),Roadside,Westminster,51.5113771448991,-0.139249367757023
+CR5,2023,NO2,32,99,Croydon - Norbury,Kerbside,Croydon,51.411349,-0.12311
+CR7,2023,NO2,19,77,Croydon - Purley Way A23,Roadside,Croydon,51.3622305655403,-0.117604507351392
+CR8,2023,PM25,8,95,Croydon - Norbury Manor,Urban Background,Croydon,51.4100146321438,-0.127520139142022
+CW3,2023,NO2,18,92,Tower Hamlets - Jubilee Park,Urban Background,Hackney,51.5029878731458,-0.0180219908165375
+CW3,2023,PM25,8,98,Tower Hamlets - Jubilee Park,Urban Background,Hackney,51.5029878731458,-0.0180219908165375
+CW3,2023,PM10,13,98,Tower Hamlets - Jubilee Park,Urban Background,Hackney,51.5029878731458,-0.0180219908165375
+EA6,2023,NO2,41,99,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA6,2023,PM10,17,95,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA8,2023,NO2,29,99,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EA8,2023,PM10,28,95,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EI1,2023,NO2,30,98,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI1,2023,PM10,21,98,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI8,2023,PM10,23,91,Ealing - Horn Lane TEOM,Industrial,Ealing,51.5189160348806,-0.265652052386222
+EN1,2023,NO2,17,100,Enfield - Bush Hill Park,Suburban,Enfield,51.6450367266602,-0.0661800662229116
+EN4,2023,NO2,26,93,Enfield - Derby Road,Roadside,Enfield,51.614864007,-0.0507658363689
+EN5,2023,NO2,25,100,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN7,2023,NO2,15,98,Enfield - Prince of Wales School,Urban Background,Enfield,51.66864334727,-0.02200720557
+GN0,2023,NO2,23,97,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2023,PM10,13,98,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN3,2023,NO2,23,100,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN3,2023,PM25,7,75,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN3,2023,PM10,12,100,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN4,2023,NO2,24,91,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GN4,2023,PM10,14,97,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GN5,2023,PM10,16,100,Greenwich - Trafalgar Road (Hoskins St),Roadside,Greenwich,51.4839072533485,0.000407396935849736
+GN6,2023,NO2,22,100,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GN6,2023,PM10,16,89,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GR7,2023,NO2,28,97,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR7,2023,PM10,14,97,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR9,2023,NO2,21,100,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2023,PM25,10,98,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2023,PM10,15,100,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GV1,2023,NO2,25,82,Westminster - Ebury Street (Grosvenor),Roadside,Westminster,51.493492,-0.149906
+GV2,2023,NO2,27,96,Westminster - Duke Street (Grosvenor),Roadside,Westminster,51.5129998832095,-0.150913488159214
+HG1,2023,NO2,26,82,Haringey - Haringey Town Hall,Roadside,Haringey,51.599302,-0.068218
+HG4,2023,NO2,15,95,Haringey  - Priory Park South,Urban Background,Haringey,51.5839769007709,-0.125400278484885
+HP1,2023,NO2,15,99,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HP1,2023,PM25,7,100,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HP1,2023,PM10,12,100,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HV1,2023,NO2,21,98,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV1,2023,PM25,7,92,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV1,2023,PM10,13,92,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV3,2023,NO2,26,100,Havering - Romford,Roadside,Havering,51.572976,0.179079
+HV3,2023,PM10,17,87,Havering - Romford,Roadside,Havering,51.572976,0.179079
+IS2,2023,NO2,25,84,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS2,2023,PM10,17,81,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS6,2023,NO2,17,98,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+IS6,2023,PM10,14,95,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+KC1,2023,NO2,16,98,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KC1,2023,PM25,7,75,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KT4,2023,NO2,28,96,Kingston Upon Thames - Tolworth Broadway,Roadside,Kingston,51.379312,-0.281259
+KT4,2023,PM25,9,91,Kingston Upon Thames - Tolworth Broadway,Roadside,Kingston,51.379312,-0.281259
+KT5,2023,NO2,35,99,Kingston Upon Thames - Cromwell Road,Roadside,Kingston,51.412308,-0.29658478
+KT5,2023,PM10,29,98,Kingston Upon Thames - Cromwell Road,Roadside,Kingston,51.412308,-0.29658478
+KT6,2023,NO2,19,100,Kingston Upon Thames - Kingston Vale,Roadside,Kingston,51.4355006647773,-0.257029893767993
+KT6,2023,PM10,16,91,Kingston Upon Thames - Kingston Vale,Roadside,Kingston,51.4355006647773,-0.257029893767993
+LB4,2023,NO2,58,99,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB4,2023,PM25,10,85,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB4,2023,PM10,18,85,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB6,2023,PM10,17,85,Lambeth - Streatham Green,Urban Background,Lambeth,51.4282131429499,-0.13186863879576
+LW2,2023,NO2,26,98,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW2,2023,PM10,22,84,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW4,2023,NO2,43,94,Lewisham - Loampit Vale,Roadside,Lewisham,51.4646910611736,-0.0160682432041527
+LW4,2023,PM10,18,99,Lewisham - Loampit Vale,Roadside,Lewisham,51.4646910611736,-0.0160682432041527
+LW5,2023,NO2,17,99,Lewisham - Deptford,Urban Background,Lewisham,51.4795312838203,-0.0252606031340197
+LW5,2023,PM25,10,95,Lewisham - Deptford,Urban Background,Lewisham,51.4795312838203,-0.0252606031340197
+LW6,2023,NO2,24,95,Lewisham - Laurence House Catford,Roadside,Lewisham,51.4447808,-0.0221832
+ME9,2023,NO2,31,99,Merton - Morden Civic Centre 2,Roadside,Merton,51.40162,-0.19589212
+MY1,2023,NO2,42,95,Westminster - Marylebone Road,Kerbside,Westminster,51.52254,-0.15459
+NB1,2023,NO2,27,76,Westminster - Strand (Northbank BID),Roadside,Westminster,51.5119701188277,-0.116713103528546
+NM2,2023,NO2,22,99,Newham - Cam Road,Roadside,Newham,51.537598,-0.002138
+NM2,2023,PM25,8,98,Newham - Cam Road,Roadside,Newham,51.537598,-0.002138
+NM2,2023,PM10,15,99,Newham - Cam Road,Roadside,Newham,51.537598,-0.002138
+NM3,2023,NO2,20,98,Newham - Wren Close,Urban Background,Newham,51.514727,0.014554
+NM3,2023,PM25,9,99,Newham - Wren Close,Urban Background,Newham,51.514727,0.014554
+NM3,2023,PM10,15,98,Newham - Wren Close,Urban Background,Newham,51.514727,0.014554
+NM4,2023,NO2,33,99,Newham - East Ham Town Hall,Roadside,Newham,51.5330166040173,0.0550002064487128
+RB4,2023,NO2,24,100,Redbridge - Gardner Close,Roadside,Redbridge,51.57661,0.030858
+RB4,2023,PM10,16,81,Redbridge - Gardner Close,Roadside,Redbridge,51.57661,0.030858
+RB7,2023,PM25,7,84,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RB7,2023,PM10,13,75,Redbridge - Ley Street,Urban Background,Redbridge,51.5694843315237,0.0829074748964946
+RI1,2023,NO2,16,97,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI1,2023,PM10,14,98,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+SK5,2023,NO2,24,97,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK6,2023,NO2,20,79,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK6,2023,PM25,8,89,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK6,2023,PM10,13,90,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK8,2023,NO2,29,99,Southwark - Tower Bridge Road,Roadside,Southwark,51.5013906712066,-0.0782034373606952
+SK8,2023,PM25,8,99,Southwark - Tower Bridge Road,Roadside,Southwark,51.5013906712066,-0.0782034373606952
+SK8,2023,PM10,15,99,Southwark - Tower Bridge Road,Roadside,Southwark,51.5013906712066,-0.0782034373606952
+SK9,2023,PM25,9,99,Southwark - A2 Old Kent Road FIDAS,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK9,2023,PM10,17,99,Southwark - A2 Old Kent Road FIDAS,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SKA,2023,NO2,27,91,Southwark - Lower Road,Roadside,Southwark,51.4965604167321,-0.0530504472531612
+SKA,2023,PM25,8,99,Southwark - Lower Road,Roadside,Southwark,51.4965604167321,-0.0530504472531612
+SKA,2023,PM10,15,99,Southwark - Lower Road,Roadside,Southwark,51.4965604167321,-0.0530504472531612
+SKB,2023,NO2,31,96,Southwark - Vicarage Grove,Roadside,Southwark,51.4735803479615,-0.0877818536754426
+SKB,2023,PM25,10,90,Southwark - Vicarage Grove,Roadside,Southwark,51.4735803479615,-0.0877818536754426
+SKB,2023,PM10,17,90,Southwark - Vicarage Grove,Roadside,Southwark,51.4735803479615,-0.0877818536754426
+SKC,2023,NO2,26,95,Southwark - South Circular Road,Roadside,Southwark,51.442633,-0.077653974
+SKC,2023,PM25,7,96,Southwark - South Circular Road,Roadside,Southwark,51.442633,-0.077653974
+SKC,2023,PM10,12,96,Southwark - South Circular Road,Roadside,Southwark,51.442633,-0.077653974
+ST4,2023,NO2,45,99,Sutton - Wallington,Kerbside,Sutton,51.3586596124998,-0.149723946604927
+ST4,2023,PM10,19,97,Sutton - Wallington,Kerbside,Sutton,51.3586596124998,-0.149723946604927
+ST5,2023,NO2,20,99,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST5,2023,PM25,9,99,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST5,2023,PM10,18,99,Sutton - Beddington Lane north,Industrial,Sutton,51.389286904505,-0.141661524779893
+ST6,2023,NO2,31,100,Sutton - Worcester Park,Kerbside,Sutton,51.377923,-0.240414
+ST6,2023,PM10,15,90,Sutton - Worcester Park,Kerbside,Sutton,51.377923,-0.240414
+ST9,2023,NO2,20,99,Sutton - Beddington Village,Roadside,Sutton,51.3712010773161,-0.131948824988095
+TH2,2023,NO2,22,98,Tower Hamlets - Mile End Road,Roadside,Tower Hamlets,51.5225462561171,-0.0420823040635312
+TH4,2023,NO2,28,99,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TH4,2023,PM10,15,77,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TL4,2023,NO2,26,93,Greenwich - Tunnel Avenue,Roadside,Greenwich,51.495057,0.0041074676
+TL5,2023,NO2,21,90,Newham - Hoola Tower,Roadside,Newham,51.508198,0.015002152
+TL6,2023,NO2,22,90,Newham - Britannia Gate,Roadside,Newham,51.503858,0.020574415
+TL6,2023,PM25,9,93,Newham - Britannia Gate,Roadside,Newham,51.503858,0.020574415
+WA2,2023,NO2,25,90,Wandsworth - Wandsworth Town Hall,Urban Background,Wandsworth,51.456962,-0.191074
+WA7,2023,PM10,18,89,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA9,2023,PM10,13,92,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WAA,2023,NO2,24,81,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAB,2023,PM10,19,98,Wandsworth - Tooting High Street,Roadside,Wandsworth,51.429331,-0.166524
+WAC,2023,PM10,18,98,Lavender Hill,Roadside,Wandsworth,51.4636903568111,-0.166713485994806
+WM5,2023,NO2,22,87,Westminster - Covent Garden,Urban Background,Westminster,51.5119769825798,-0.12162720332856
+WM6,2023,NO2,32,99,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+WM6,2023,PM10,22,98,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+WMD,2023,NO2,35,100,Westminster - Elizabeth Bridge,Roadside,Westminster,51.4922482333024,-0.147114752900186
+WMD,2023,PM25,8,97,Westminster - Elizabeth Bridge,Roadside,Westminster,51.4922482333024,-0.147114752900186
+BG2,2024,NO2,18,83,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BG2,2024,PM10,16,86,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BQ7,2024,NO2,13,91,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ9,2024,PM25,8,96,Bexley - Slade Green Fidas,Suburban,Bexley,51.4659832746662,0.184877126994369
+BQ9,2024,PM10,12,96,Bexley - Slade Green Fidas,Suburban,Bexley,51.4659832746662,0.184877126994369
+BT4,2024,NO2,31,98,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT4,2024,PM25,10,99,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT4,2024,PM10,22,99,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT5,2024,NO2,23,100,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT5,2024,PM25,7,91,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT5,2024,PM10,19,99,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT6,2024,NO2,22,99,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT6,2024,PM25,8,94,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT6,2024,PM10,15,96,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT8,2024,NO2,23,100,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BT8,2024,PM25,9,100,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BT8,2024,PM10,15,99,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BX1,2024,NO2,14,91,Bexley - Slade Green,Suburban,Bexley,51.4659832746662,0.184877126994369
+BX2,2024,NO2,15,94,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX2,2024,PM25,7,96,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX2,2024,PM10,12,96,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BY7,2024,NO2,20,85,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+BY7,2024,PM25,9,90,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+BY7,2024,PM10,16,98,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+CD1,2024,NO2,30,98,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD1,2024,PM25,10,96,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD1,2024,PM10,18,94,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CE2,2024,PM25,9,87,Waterloo Place (The Crown Estate),Roadside,Westminster,51.5075819137762,-0.133068372704093
+CE2,2024,PM10,17,88,Waterloo Place (The Crown Estate),Roadside,Westminster,51.5075819137762,-0.133068372704093
+CR5,2024,NO2,27,94,Croydon - Norbury,Kerbside,Croydon,51.411349,-0.12311
+CR7,2024,NO2,18,94,Croydon - Purley Way A23,Roadside,Croydon,51.3622305655403,-0.117604507351392
+CR8,2024,PM25,7,91,Croydon - Norbury Manor,Urban Background,Croydon,51.4100146321438,-0.127520139142022
+CW3,2024,NO2,16,98,Tower Hamlets - Jubilee Park,Urban Background,Hackney,51.5029878731458,-0.0180219908165375
+EA6,2024,NO2,36,96,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA6,2024,PM10,20,85,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA8,2024,NO2,26,93,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EA8,2024,PM10,27,93,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EI1,2024,NO2,28,97,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI1,2024,PM10,22,87,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EN1,2024,NO2,15,100,Enfield - Bush Hill Park,Suburban,Enfield,51.6450367266602,-0.0661800662229116
+EN4,2024,NO2,23,100,Enfield - Derby Road,Roadside,Enfield,51.614864007,-0.0507658363689
+EN5,2024,NO2,24,100,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN7,2024,NO2,14,94,Enfield - Prince of Wales School,Urban Background,Enfield,51.66864334727,-0.02200720557
+GB6,2024,NO2,17,88,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GB6,2024,PM10,15,96,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GN0,2024,NO2,20,97,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2024,PM25,9,100,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2024,PM10,14,95,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN3,2024,NO2,21,92,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN3,2024,PM25,9,100,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN3,2024,PM10,13,100,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN4,2024,NO2,21,98,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GN4,2024,PM10,15,100,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GN5,2024,NO2,29,100,Greenwich - Trafalgar Road (Hoskins St),Roadside,Greenwich,51.4839072533485,0.000407396935849736
+GN5,2024,PM10,16,100,Greenwich - Trafalgar Road (Hoskins St),Roadside,Greenwich,51.4839072533485,0.000407396935849736
+GN6,2024,NO2,20,99,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GN6,2024,PM25,7,98,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GN6,2024,PM10,16,98,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GR7,2024,NO2,26,100,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR7,2024,PM10,14,100,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR8,2024,NO2,34,91,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR8,2024,PM10,19,94,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR9,2024,NO2,19,100,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2024,PM25,8,97,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2024,PM10,15,97,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+HG1,2024,NO2,24,98,Haringey - Haringey Town Hall,Roadside,Haringey,51.599302,-0.068218
+HG4,2024,NO2,13,91,Haringey  - Priory Park South,Urban Background,Haringey,51.5839769007709,-0.125400278484885
+HP1,2024,NO2,13,97,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HP1,2024,PM25,7,100,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HP1,2024,PM10,11,100,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HV1,2024,NO2,19,100,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV3,2024,NO2,22,100,Havering - Romford,Roadside,Havering,51.572976,0.179079
+HV3,2024,PM10,18,100,Havering - Romford,Roadside,Havering,51.572976,0.179079
+IS2,2024,NO2,23,100,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS2,2024,PM10,16,99,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS6,2024,NO2,15,100,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+IS6,2024,PM10,14,94,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+KC1,2024,NO2,14,98,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+LB4,2024,NO2,48,99,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB4,2024,PM25,9,92,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB4,2024,PM10,15,92,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB6,2024,NO2,17,100,Lambeth - Streatham Green,Urban Background,Lambeth,51.4282131429499,-0.13186863879576
+LB6,2024,PM10,16,97,Lambeth - Streatham Green,Urban Background,Lambeth,51.4282131429499,-0.13186863879576
+LW2,2024,NO2,25,89,Lewisham - New Cross,Roadside,Lewisham,51.474954,-0.039641
+LW4,2024,NO2,46,98,Lewisham - Loampit Vale,Roadside,Lewisham,51.4646910611736,-0.0160682432041527
+LW4,2024,PM10,15,95,Lewisham - Loampit Vale,Roadside,Lewisham,51.4646910611736,-0.0160682432041527
+LW5,2024,NO2,15,91,Lewisham - Deptford,Urban Background,Lewisham,51.4795312838203,-0.0252606031340197
+LW5,2024,PM25,9,98,Lewisham - Deptford,Urban Background,Lewisham,51.4795312838203,-0.0252606031340197
+LW6,2024,NO2,18,93,Lewisham - Laurence House Catford,Roadside,Lewisham,51.4447808,-0.0221832
+ME9,2024,NO2,21,99,Merton - Morden Civic Centre 2,Roadside,Merton,51.40162,-0.19589212
+MY1,2024,NO2,32,86,Westminster - Marylebone Road,Kerbside,Westminster,51.52254,-0.15459
+RI1,2024,NO2,19,100,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI1,2024,PM10,15,99,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI2,2024,NO2,12,86,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+RI2,2024,PM10,14,84,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+SK5,2024,NO2,21,97,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK6,2024,NO2,16,97,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK6,2024,PM25,8,97,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK6,2024,PM10,13,97,Southwark - Elephant and Castle,Urban Background,Southwark,51.4931557048667,-0.101527038274853
+SK8,2024,NO2,26,100,Southwark - Tower Bridge Road,Roadside,Southwark,51.5013906712066,-0.0782034373606952
+SK8,2024,PM25,8,100,Southwark - Tower Bridge Road,Roadside,Southwark,51.5013906712066,-0.0782034373606952
+SK8,2024,PM10,14,100,Southwark - Tower Bridge Road,Roadside,Southwark,51.5013906712066,-0.0782034373606952
+SK9,2024,PM25,9,98,Southwark - A2 Old Kent Road FIDAS,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK9,2024,PM10,16,100,Southwark - A2 Old Kent Road FIDAS,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SKA,2024,NO2,22,96,Southwark - Lower Road,Roadside,Southwark,51.4965604167321,-0.0530504472531612
+SKA,2024,PM25,8,100,Southwark - Lower Road,Roadside,Southwark,51.4965604167321,-0.0530504472531612
+SKA,2024,PM10,15,100,Southwark - Lower Road,Roadside,Southwark,51.4965604167321,-0.0530504472531612
+SKB,2024,NO2,26,95,Southwark - Vicarage Grove,Roadside,Southwark,51.4735803479615,-0.0877818536754426
+SKB,2024,PM25,9,99,Southwark - Vicarage Grove,Roadside,Southwark,51.4735803479615,-0.0877818536754426
+SKB,2024,PM10,15,100,Southwark - Vicarage Grove,Roadside,Southwark,51.4735803479615,-0.0877818536754426
+SKC,2024,NO2,23,97,Southwark - South Circular Road,Roadside,Southwark,51.442633,-0.077653974
+SKC,2024,PM25,7,95,Southwark - South Circular Road,Roadside,Southwark,51.442633,-0.077653974
+SKC,2024,PM10,12,95,Southwark - South Circular Road,Roadside,Southwark,51.442633,-0.077653974
+TH2,2024,NO2,20,97,Tower Hamlets - Mile End Road,Roadside,Tower Hamlets,51.5225462561171,-0.0420823040635312
+TH4,2024,NO2,30,100,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TH4,2024,PM25,10,100,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TH4,2024,PM10,16,100,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TL5,2024,NO2,19,82,Newham - Hoola Tower,Roadside,Newham,51.508198,0.015002152
+TL6,2024,NO2,21,76,Newham - Britannia Gate,Roadside,Newham,51.503858,0.020574415
+WA7,2024,PM10,15,83,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA9,2024,NO2,15,85,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WA9,2024,PM10,13,89,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WAA,2024,PM10,16,81,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAB,2024,NO2,31,95,Wandsworth - Tooting High Street,Roadside,Wandsworth,51.429331,-0.166524
+WAB,2024,PM10,19,89,Wandsworth - Tooting High Street,Roadside,Wandsworth,51.429331,-0.166524
+WAC,2024,PM10,17,89,Lavender Hill,Roadside,Wandsworth,51.4636903568111,-0.166713485994806
+WM5,2024,PM25,13,91,Westminster - Covent Garden,Urban Background,Westminster,51.5119769825798,-0.12162720332856
+WM6,2024,NO2,29,100,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+WM6,2024,PM25,13,90,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+WMD,2024,NO2,30,100,Westminster - Elizabeth Bridge,Roadside,Westminster,51.4922482333024,-0.147114752900186
+WMD,2024,PM25,7,99,Westminster - Elizabeth Bridge,Roadside,Westminster,51.4922482333024,-0.147114752900186
+BG2,2025,PM10,19,80,Barking and Dagenham - Scrattons Farm,Suburban,Barking and Dagenham,51.529389,0.132857
+BL0,2025,NO2,19,77,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BL0,2025,PM25,7,77,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BL0,2025,PM10,13,77,Camden - Bloomsbury,Urban Background,Camden,51.522287,-0.125848
+BQ7,2025,NO2,14,87,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ7,2025,PM25,9,100,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ7,2025,PM10,14,100,Bexley - Belvedere West,Urban Background,Bexley,51.4946486813055,0.137279111232178
+BQ9,2025,PM25,10,99,Bexley - Slade Green Fidas,Suburban,Bexley,51.4659832746662,0.184877126994369
+BQ9,2025,PM10,15,96,Bexley - Slade Green Fidas,Suburban,Bexley,51.4659832746662,0.184877126994369
+BT4,2025,NO2,34,97,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT4,2025,PM25,13,99,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT4,2025,PM10,25,98,Brent - Ikea,Roadside,Brent,51.552476,-0.258089
+BT5,2025,NO2,21,100,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT5,2025,PM25,10,89,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT5,2025,PM10,20,90,Brent - Neasden Lane,Industrial,Brent,51.552656,-0.248774
+BT6,2025,NO2,21,100,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT6,2025,PM25,9,99,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT6,2025,PM10,16,100,Brent - John Keble Primary School,Roadside,Brent,51.537799,-0.247793
+BT8,2025,NO2,22,100,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BT8,2025,PM25,10,99,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BT8,2025,PM10,17,99,Brent - ARK Franklin Primary Academy,Roadside,Brent,51.5324054617809,-0.217718908639377
+BX1,2025,NO2,16,81,Bexley - Slade Green,Suburban,Bexley,51.4659832746662,0.184877126994369
+BX2,2025,NO2,16,95,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX2,2025,PM25,9,98,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BX2,2025,PM10,16,98,Bexley - Belvedere,Suburban,Bexley,51.4906102082147,0.158914493927518
+BY7,2025,NO2,17,98,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+BY7,2025,PM25,12,94,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+BY7,2025,PM10,18,96,Bromley - Harwood Avenue,Roadside,Bromley,51.405546,0.018882
+CD1,2025,NO2,28,98,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD1,2025,PM25,12,98,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CD1,2025,PM10,23,95,Camden - Swiss Cottage,Kerbside,Camden,51.544219,-0.175284
+CE2,2025,NO2,31,91,Waterloo Place (The Crown Estate),Roadside,Westminster,51.5075819137762,-0.133068372704093
+CE2,2025,PM25,10,98,Waterloo Place (The Crown Estate),Roadside,Westminster,51.5075819137762,-0.133068372704093
+CE2,2025,PM10,18,100,Waterloo Place (The Crown Estate),Roadside,Westminster,51.5075819137762,-0.133068372704093
+CE3,2025,PM25,11,94,Regent Street (The Crown Estate),Roadside,Westminster,51.5113771448991,-0.139249367757023
+CE3,2025,PM10,19,94,Regent Street (The Crown Estate),Roadside,Westminster,51.5113771448991,-0.139249367757023
+CR5,2025,NO2,25,91,Croydon - Norbury,Kerbside,Croydon,51.411349,-0.12311
+CW3,2025,NO2,16,90,Tower Hamlets - Jubilee Park,Urban Background,Hackney,51.5029878731458,-0.0180219908165375
+CW3,2025,PM25,9,90,Tower Hamlets - Jubilee Park,Urban Background,Hackney,51.5029878731458,-0.0180219908165375
+CW3,2025,PM10,15,92,Tower Hamlets - Jubilee Park,Urban Background,Hackney,51.5029878731458,-0.0180219908165375
+EA6,2025,PM10,23,88,Ealing - Hanger Lane Gyratory,Roadside,Ealing,51.53085,-0.292488
+EA8,2025,NO2,24,90,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EA8,2025,PM10,29,97,Ealing - Horn Lane,Industrial,Ealing,51.518948,-0.265617
+EI1,2025,NO2,28,99,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI1,2025,PM10,25,97,Ealing - Western Avenue,Roadside,Ealing,51.5236078191481,-0.265502631799754
+EI8,2025,PM10,26,98,Ealing - Horn Lane TEOM,Industrial,Ealing,51.5189160348806,-0.265652052386222
+EN1,2025,NO2,16,100,Enfield - Bush Hill Park,Suburban,Enfield,51.6450367266602,-0.0661800662229116
+EN4,2025,NO2,23,94,Enfield - Derby Road,Roadside,Enfield,51.614864007,-0.0507658363689
+EN5,2025,NO2,25,96,Enfield - Bowes Primary School,Roadside,Enfield,51.613865,-0.125338
+EN7,2025,NO2,16,92,Enfield - Prince of Wales School,Urban Background,Enfield,51.66864334727,-0.02200720557
+GB0,2025,PM25,9,98,Greenwich - Falconwood FDMS,Roadside,Bexley,51.4563,0.085606
+GB6,2025,NO2,20,100,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GB6,2025,PM10,19,96,Greenwich - Falconwood,Roadside,Bexley,51.4563,0.085606
+GN0,2025,NO2,22,99,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2025,PM25,12,98,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN0,2025,PM10,17,92,Greenwich - A206 Burrage Grove,Roadside,Greenwich,51.490532,0.074003
+GN3,2025,NO2,22,98,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN3,2025,PM25,11,100,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN3,2025,PM10,14,98,Greenwich - Plumstead High Street,Roadside,Greenwich,51.486957,0.095111
+GN4,2025,NO2,21,100,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GN4,2025,PM10,17,98,Greenwich - Fiveways Sidcup Rd A20,Roadside,Greenwich,51.4346627060562,0.0642224671704697
+GN5,2025,NO2,26,93,Greenwich - Trafalgar Road (Hoskins St),Roadside,Greenwich,51.4839072533485,0.000407396935849736
+GN5,2025,PM10,17,98,Greenwich - Trafalgar Road (Hoskins St),Roadside,Greenwich,51.4839072533485,0.000407396935849736
+GN6,2025,NO2,20,94,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GN6,2025,PM10,17,90,Greenwich - John Harrison Way,Roadside,Greenwich,51.4937746695818,0.0107796237032558
+GR7,2025,NO2,27,96,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR7,2025,PM10,17,96,Greenwich - Blackheath,Roadside,Greenwich,51.472504,-0.012381
+GR8,2025,NO2,28,93,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR8,2025,PM10,22,83,Greenwich - Woolwich Flyover,Roadside,Greenwich,51.486884,0.017901
+GR9,2025,NO2,19,92,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2025,PM25,9,83,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+GR9,2025,PM10,18,95,Greenwich - Westhorne Avenue,Roadside,Greenwich,51.456357,0.040725
+HG1,2025,NO2,26,78,Haringey - Haringey Town Hall,Roadside,Haringey,51.599302,-0.068218
+HG4,2025,NO2,13,100,Haringey  - Priory Park South,Urban Background,Haringey,51.5839769007709,-0.125400278484885
+HP1,2025,NO2,15,98,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HP1,2025,PM25,8,99,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HP1,2025,PM10,13,99,Lewisham - Honor Oak Park,Urban Background,Lewisham,51.4496728960354,-0.0374153592115306
+HV1,2025,NO2,20,100,Havering - Rainham,Roadside,Havering,51.520787459334,0.205460705694044
+HV3,2025,NO2,23,80,Havering - Romford,Roadside,Havering,51.572976,0.179079
+HV3,2025,PM10,19,93,Havering - Romford,Roadside,Havering,51.572976,0.179079
+IS2,2025,NO2,25,99,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS2,2025,PM25,10,90,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS2,2025,PM10,15,96,Islington - Holloway Road,Roadside,Islington,51.555378,-0.116146
+IS6,2025,NO2,16,95,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+IS6,2025,PM25,9,97,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+IS6,2025,PM10,13,99,Islington - Arsenal,Urban Background,Islington,51.557895,-0.106989
+KC1,2025,NO2,15,99,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+KC1,2025,PM25,9,98,Kensington and Chelsea - North Ken,Urban Background,Kensington and Chelsea,51.5210467476039,-0.213492139585065
+LB4,2025,NO2,48,96,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB4,2025,PM25,10,83,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB4,2025,PM10,18,83,Lambeth - Brixton Road,Kerbside,Lambeth,51.464113541162,-0.11458102695123
+LB6,2025,NO2,17,96,Lambeth - Streatham Green,Urban Background,Lambeth,51.4282131429499,-0.13186863879576
+LB6,2025,PM10,19,95,Lambeth - Streatham Green,Urban Background,Lambeth,51.4282131429499,-0.13186863879576
+ME2,2025,PM10,25,76,Merton - Merton Road,Roadside,Merton,51.4161384794862,-0.192230805042824
+ME9,2025,NO2,22,99,Merton - Morden Civic Centre 2,Roadside,Merton,51.40162,-0.19589212
+MY1,2025,NO2,31,78,Westminster - Marylebone Road,Kerbside,Westminster,51.52254,-0.15459
+RHI,2025,NO2,25,86,Richmond Upon Thames - Richmond,Kerbside,Richmond,51.4638976490621,-0.301685013378926
+RHI,2025,PM25,16,84,Richmond Upon Thames - Richmond,Kerbside,Richmond,51.4638976490621,-0.301685013378926
+RHI,2025,PM10,26,86,Richmond Upon Thames - Richmond,Kerbside,Richmond,51.4638976490621,-0.301685013378926
+RI1,2025,NO2,18,95,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI1,2025,PM10,17,97,Richmond Upon Thames - Castelnau,Roadside,Richmond,51.480189,-0.237335
+RI2,2025,NO2,13,99,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+RI2,2025,PM10,14,94,Richmond Upon Thames - Barnes Wetlands,Suburban,Richmond,51.476168,-0.230427
+SK5,2025,NO2,22,96,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+SK5,2025,PM10,21,93,Southwark - A2 Old Kent Road,Roadside,Southwark,51.4804994936467,-0.0595528932573422
+TH2,2025,NO2,20,96,Tower Hamlets - Mile End Road,Roadside,Tower Hamlets,51.5225462561171,-0.0420823040635312
+TH2,2025,PM25,9,93,Tower Hamlets - Mile End Road,Roadside,Tower Hamlets,51.5225462561171,-0.0420823040635312
+TH4,2025,NO2,28,99,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TH4,2025,PM25,12,99,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TH4,2025,PM10,21,96,Tower Hamlets - Blackwall,Roadside,Tower Hamlets,51.5150461674013,-0.00841849265642741
+TH5,2025,NO2,16,99,Tower Hamlets - Victoria Park,Urban Background,Tower Hamlets,51.5399327394691,-0.0331740581778178
+TH5,2025,PM25,8,97,Tower Hamlets - Victoria Park,Urban Background,Tower Hamlets,51.5399327394691,-0.0331740581778178
+TH5,2025,PM10,17,99,Tower Hamlets - Victoria Park,Urban Background,Tower Hamlets,51.5399327394691,-0.0331740581778178
+TH6,2025,NO2,15,83,Tower Hamlets - Millwall Park,Urban Background,Tower Hamlets,51.4891342634,-0.0129769309432
+TH6,2025,PM10,16,99,Tower Hamlets - Millwall Park,Urban Background,Tower Hamlets,51.4891342634,-0.0129769309432
+TH7,2025,NO2,19,100,Tower Hamlets - King Edward Memorial Park,Urban Background,Tower Hamlets,51.5094228799835,-0.0505278232872832
+TH7,2025,PM25,10,95,Tower Hamlets - King Edward Memorial Park,Urban Background,Tower Hamlets,51.5094228799835,-0.0505278232872832
+TL5,2025,NO2,20,82,Newham - Hoola Tower,Roadside,Newham,51.508198,0.015002152
+TL6,2025,NO2,21,97,Newham - Britannia Gate,Roadside,Newham,51.503858,0.020574415
+TL6,2025,PM25,9,92,Newham - Britannia Gate,Roadside,Newham,51.503858,0.020574415
+WA7,2025,NO2,35,99,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA7,2025,PM25,12,90,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA7,2025,PM10,20,98,Wandsworth - Putney High Street,Kerbside,Wandsworth,51.463429,-0.215871
+WA9,2025,NO2,18,99,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WA9,2025,PM25,11,93,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WA9,2025,PM10,15,93,Wandsworth - Putney,Urban Background,Wandsworth,51.4650325059122,-0.215824580947572
+WAA,2025,NO2,22,86,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAA,2025,PM25,10,96,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAA,2025,PM10,19,92,Wandsworth - Battersea,Roadside,Wandsworth,51.4794395281222,-0.141786953606306
+WAB,2025,NO2,29,91,Wandsworth - Tooting High Street,Roadside,Wandsworth,51.429331,-0.166524
+WAB,2025,PM10,24,95,Wandsworth - Tooting High Street,Roadside,Wandsworth,51.429331,-0.166524
+WAC,2025,NO2,22,97,Lavender Hill,Roadside,Wandsworth,51.4636903568111,-0.166713485994806
+WAC,2025,PM25,12,86,Lavender Hill,Roadside,Wandsworth,51.4636903568111,-0.166713485994806
+WAC,2025,PM10,17,77,Lavender Hill,Roadside,Wandsworth,51.4636903568111,-0.166713485994806
+WM5,2025,NO2,22,98,Westminster - Covent Garden,Urban Background,Westminster,51.5119769825798,-0.12162720332856
+WM5,2025,PM25,14,99,Westminster - Covent Garden,Urban Background,Westminster,51.5119769825798,-0.12162720332856
+WM6,2025,NO2,28,93,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+WM6,2025,PM25,16,99,Westminster - Oxford Street,Kerbside,Westminster,51.5139287404213,-0.152792701881935
+WMD,2025,NO2,26,97,Westminster - Elizabeth Bridge,Roadside,Westminster,51.4922482333024,-0.147114752900186
+WMD,2025,PM25,8,94,Westminster - Elizabeth Bridge,Roadside,Westminster,51.4922482333024,-0.147114752900186
